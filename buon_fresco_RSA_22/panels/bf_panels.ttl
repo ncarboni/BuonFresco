@@ -1,0 +1,784 @@
+@prefix bf:    <http://lod.unige.ch/buonfresco/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix crmdig: <http://www.ics.forth.gr/isl/CRMdig/> .
+@prefix wd:    <http://www.wikidata.org/entity/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix aat:   <http://vocab.getty.edu/aat/> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace> .
+@prefix vir:   <http://w3id.org/vir#> .
+@prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix frbroo: <http://iflastandards.info/ns/fr/frbr/frbroo/> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<http://lod.unige.ch/buonfresco/physical/7ad9a576-b172-3650-9592-d8742675d7ca>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "Saluto di santa Chiara e delle sue compagne a san Francesco"@it , "St Francis Mourned by St Clare"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/7ad9a576-b172-3650-9592-d8742675d7ca> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/7ad9a576-b172-3650-9592-d8742675d7ca> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3945872 .
+
+<http://lod.unige.ch/buonfresco/visual/fd4c5ec2-27c4-4f2b-ae92-8e3e71864867>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Renunciation of Wordly Goods"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+wd:Q3947100  a  wd:Q22669139 .
+
+wd:Q3964099  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/visual/e887edcc-ece5-3ea8-bae8-2d1045601992>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Exorcism of the Demons at Arezzo"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/appellation/24edffeb-f9a9-4b41-a066-de0c6a615b93>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Vision of the Trones"@en .
+
+<http://lod.unige.ch/buonfresco/production/45b96403-83a5-4deb-8f3f-d08dbb70eb35>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/45b96403-83a5-4deb-8f3f-d08dbb70eb35> .
+
+wd:Q3910951  a  wd:Q22669139 .
+
+wd:Q3686621  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/physical/0ab06522-d46f-4319-847c-8c58564bccd4>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "Canonizzazione di san Francesco"@it , "Canonization of St. Francis"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/0ab06522-d46f-4319-847c-8c58564bccd4> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/0ab06522-d46f-4319-847c-8c58564bccd4> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3655536 .
+
+<http://lod.unige.ch/buonfresco/visual/532fa8f3-7e1f-45ef-bef8-11e9a72a1578>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Verification of the Stigmata"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/production/0e412a49-d785-487a-9844-99af1017bb5f>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/0e412a49-d785-487a-9844-99af1017bb5f> .
+
+<http://lod.unige.ch/buonfresco/appellation/7ad9a576-b172-3650-9592-d8742675d7ca>
+        a           crm:E41_Appellation ;
+        rdfs:label  "St Francis Mourned by St Clare"@en .
+
+<http://lod.unige.ch/buonfresco/production/3b0101ee-11c0-4ffd-8745-a098dbf45748>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/3b0101ee-11c0-4ffd-8745-a098dbf45748> .
+
+<http://lod.unige.ch/buonfresco/person/Q1918385>
+        a                        crm:E21_Person ;
+        rdfs:label               "Master of Saint Cecilia"@en ;
+        crm:P14i_performed       <http://lod.unige.ch/buonfresco/production/6306dbdc-27de-4ecb-82d8-be9783138ad8> , <http://lod.unige.ch/buonfresco/production/ff9961b3-7670-48c6-967d-e756d697565f> , <http://lod.unige.ch/buonfresco/production/12f83e89-a78c-4eb4-b76b-3f9fb71d823f> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/Q1918385> .
+
+<http://lod.unige.ch/buonfresco/production/f77f1b3b-a47c-31be-80f8-d032d680365c>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/f77f1b3b-a47c-31be-80f8-d032d680365c> .
+
+<http://lod.unige.ch/buonfresco/appellation/7c19160e-fa5f-40df-89c8-0bea9caea361>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Dream of Innocent III"@en .
+
+<http://lod.unige.ch/buonfresco/appellation/d4fad139-3aa0-4cde-b63b-fd6bf0110ab1>
+        a           crm:E41_Appellation ;
+        rdfs:label  "St Francis Giving his Mantle to a Poor Man"@en .
+
+wd:Q3655536  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/visual/24edffeb-f9a9-4b41-a066-de0c6a615b93>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Vision of the Trones"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/production/ff9961b3-7670-48c6-967d-e756d697565f>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/ff9961b3-7670-48c6-967d-e756d697565f> .
+
+<http://lod.unige.ch/buonfresco/physical/bb0a836c-a444-4981-817c-fb25bec8bb84>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "San Francesco appare a Gregorio IX"@it , "Dream of St Gregory"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/bb0a836c-a444-4981-817c-fb25bec8bb84> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/bb0a836c-a444-4981-817c-fb25bec8bb84> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3947095 .
+
+<http://lod.unige.ch/buonfresco/appellation/12f83e89-a78c-4eb4-b76b-3f9fb71d823f>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Legend of St Francis: 26. The Healing of a Devotee of the Saint"@en .
+
+wd:Q3858719  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/physical/844af9fa-cbaa-45c7-8550-1da0e1f55636>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "Innocenzo III conferma la Regola francescana"@it , "Confirmation of the Rule"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/844af9fa-cbaa-45c7-8550-1da0e1f55636> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/844af9fa-cbaa-45c7-8550-1da0e1f55636> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3798976 .
+
+<http://lod.unige.ch/buonfresco/appellation/cb4aa948-5c1f-4688-834a-4a5640c653d9>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Apparition at Arles"@en .
+
+wd:Q3947095  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/visual/7ad9a576-b172-3650-9592-d8742675d7ca>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "St Francis Mourned by St Clare"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/physical/b77dff41-977e-4f79-9434-5988a5a75cc5>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "San Francesco davanti al Sultano"@it , "St Francis before the Sultan"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/b77dff41-977e-4f79-9434-5988a5a75cc5> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/b77dff41-977e-4f79-9434-5988a5a75cc5> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3947100 .
+
+<http://lod.unige.ch/buonfresco/production/e9a5166d-6525-41bf-8759-4db54065aca2>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/e9a5166d-6525-41bf-8759-4db54065aca2> .
+
+<http://lod.unige.ch/buonfresco/visual/7c19160e-fa5f-40df-89c8-0bea9caea361>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Dream of Innocent III"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+wd:Q82880  a    wd:Q747074 .
+
+<http://lod.unige.ch/buonfresco/physical/d054ffd4-95ee-4427-b7a2-c050aca665f2>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "Sogno delle armi"@it , "Dream of the Palace"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/d054ffd4-95ee-4427-b7a2-c050aca665f2> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/d054ffd4-95ee-4427-b7a2-c050aca665f2> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3964097 .
+
+<http://lod.unige.ch/buonfresco/appellation/1206f44e-abd1-4bc4-90e0-0b14db5b6c84>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Ecstasy of St Francis"@en .
+
+<http://lod.unige.ch/buonfresco/production/d4fad139-3aa0-4cde-b63b-fd6bf0110ab1>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/d4fad139-3aa0-4cde-b63b-fd6bf0110ab1> .
+
+<http://lod.unige.ch/buonfresco/visual/12f83e89-a78c-4eb4-b76b-3f9fb71d823f>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Legend of St Francis: 26. The Healing of a Devotee of the Saint"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/physical/9227d43e-4158-4fb4-a06d-96716f5e34e8>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "Predica agli uccelli"@it , "Sermon to the Birds"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/9227d43e-4158-4fb4-a06d-96716f5e34e8> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/9227d43e-4158-4fb4-a06d-96716f5e34e8> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3910084 .
+
+<http://lod.unige.ch/buonfresco/physical/0842b62e-b414-3027-a995-0371d9261672>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "Predica davanti a Onorio III"@it , "St Francis Preaching before Honorius III"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/0842b62e-b414-3027-a995-0371d9261672> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/0842b62e-b414-3027-a995-0371d9261672> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3910085 .
+
+<http://lod.unige.ch/buonfresco/appellation/6306dbdc-27de-4ecb-82d8-be9783138ad8>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Legend of St Francis: 28. Liberation of the Repentant Heretic"@en .
+
+<http://lod.unige.ch/buonfresco/visual/0ab06522-d46f-4319-847c-8c58564bccd4>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Canonization of St. Francis"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+wd:Q3964097  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/visual/Q3087564>
+        a                vir:IC9_Representation ;
+        rdfs:label       "Scenes of the life of Sant Francis"@en ;
+        crm:P2_has_type  aat:300184300 .
+
+wd:Q3945872  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/production/b77dff41-977e-4f79-9434-5988a5a75cc5>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/b77dff41-977e-4f79-9434-5988a5a75cc5> .
+
+<http://lod.unige.ch/buonfresco/production/cb4aa948-5c1f-4688-834a-4a5640c653d9>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/cb4aa948-5c1f-4688-834a-4a5640c653d9> .
+
+<http://lod.unige.ch/buonfresco/physical/d13586b5-547f-49db-a5dd-df44f2c35877>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "Visioni di frate Agostino e del vescovo di Assisi"@it , "Apparition to Fra Agostino and to Bishop Guido of Arezzo"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/d13586b5-547f-49db-a5dd-df44f2c35877> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/d13586b5-547f-49db-a5dd-df44f2c35877> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q4014787 .
+
+<http://lod.unige.ch/buonfresco/appellation/99953f18-b5e2-49ee-9582-8b03b7156767>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Death of the Knight of Celano"@en .
+
+<http://lod.unige.ch/buonfresco/place/Q82880>
+        a           crm:E53_Place ;
+        rdfs:label  "Vicchio"@en ;
+        owl:sameAs  wd:Q82880 .
+
+<http://lod.unige.ch/buonfresco/visual/1206f44e-abd1-4bc4-90e0-0b14db5b6c84>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Ecstasy of St Francis"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+wd:Q3947106  a  wd:Q22669139 .
+
+aat:300177433  a  crm:E55_Type .
+
+wd:Q3620833  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/visual/bb0a836c-a444-4981-817c-fb25bec8bb84>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Dream of St Gregory"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/appellation/0842b62e-b414-3027-a995-0371d9261672>
+        a           crm:E41_Appellation ;
+        rdfs:label  "St Francis Preaching before Honorius III"@en .
+
+<http://lod.unige.ch/buonfresco/death/Q2044>
+        a                     crm:E69_Death ;
+        crm:P4_has_time-span  <http://lod.unige.ch/buonfresco/timespan/Q2044> ;
+        crm:P7_took_place_at  <http://lod.unige.ch/buonfresco/place/Q2044> .
+
+<http://lod.unige.ch/buonfresco/visual/844af9fa-cbaa-45c7-8550-1da0e1f55636>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Confirmation of the Rule"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+wd:Q3947114  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/production/7918338d-55a9-43c6-a884-0dbfe5551073>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/7918338d-55a9-43c6-a884-0dbfe5551073> .
+
+<http://lod.unige.ch/buonfresco/production/6306dbdc-27de-4ecb-82d8-be9783138ad8>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/6306dbdc-27de-4ecb-82d8-be9783138ad8> .
+
+<http://lod.unige.ch/buonfresco/place/Q2044>
+        a           crm:E53_Place ;
+        rdfs:label  "Florence"@en ;
+        owl:sameAs  wd:Q2044 .
+
+<http://lod.unige.ch/buonfresco/appellation/fd4c5ec2-27c4-4f2b-ae92-8e3e71864867>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Renunciation of Wordly Goods"@en .
+
+<http://lod.unige.ch/buonfresco/physical/45b96403-83a5-4deb-8f3f-d08dbb70eb35>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "Apparizione di san Francesco su un carro di fuoco"@it , "Vision of the Flaming Chariot"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/45b96403-83a5-4deb-8f3f-d08dbb70eb35> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/45b96403-83a5-4deb-8f3f-d08dbb70eb35> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3620833 .
+
+<http://lod.unige.ch/buonfresco/appellation/e887edcc-ece5-3ea8-bae8-2d1045601992>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Exorcism of the Demons at Arezzo"@en .
+
+wd:Q3778386  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/production/d13586b5-547f-49db-a5dd-df44f2c35877>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/d13586b5-547f-49db-a5dd-df44f2c35877> .
+
+<http://lod.unige.ch/buonfresco/visual/d054ffd4-95ee-4427-b7a2-c050aca665f2>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Dream of the Palace"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/production/99953f18-b5e2-49ee-9582-8b03b7156767>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/99953f18-b5e2-49ee-9582-8b03b7156767> .
+
+<http://lod.unige.ch/buonfresco/production/72fb51a5-d04c-41a5-a50e-390a6f9c1636>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/72fb51a5-d04c-41a5-a50e-390a6f9c1636> .
+
+<http://lod.unige.ch/buonfresco/physical/0e412a49-d785-487a-9844-99af1017bb5f>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "San Francesco riceve le stimmate"@it , "Stigmatization of St Francis"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/0e412a49-d785-487a-9844-99af1017bb5f> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/0e412a49-d785-487a-9844-99af1017bb5f> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3947110 .
+
+wd:Q3910084  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/physical/3b0101ee-11c0-4ffd-8745-a098dbf45748>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "Omaggio dell'uomo semplice"@it , "Homage of a Simple Man"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/3b0101ee-11c0-4ffd-8745-a098dbf45748> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/3b0101ee-11c0-4ffd-8745-a098dbf45748> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3882040 .
+
+<http://lod.unige.ch/buonfresco/visual/9227d43e-4158-4fb4-a06d-96716f5e34e8>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Sermon to the Birds"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/visual/0842b62e-b414-3027-a995-0371d9261672>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "St Francis Preaching before Honorius III"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/physical/f77f1b3b-a47c-31be-80f8-d032d680365c>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "Miracolo della sorgente"@it , "Miracle of the Spring"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/f77f1b3b-a47c-31be-80f8-d032d680365c> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/f77f1b3b-a47c-31be-80f8-d032d680365c> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3858719 .
+
+<http://lod.unige.ch/buonfresco/appellation/45b96403-83a5-4deb-8f3f-d08dbb70eb35>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Vision of the Flaming Chariot"@en .
+
+<http://lod.unige.ch/buonfresco/physical/ff9961b3-7670-48c6-967d-e756d697565f>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "Confessione della donna resuscitata"@it , "Legend of St Francis: 27. Confession of a Woman Raised from the Dead"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/ff9961b3-7670-48c6-967d-e756d697565f> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/ff9961b3-7670-48c6-967d-e756d697565f> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3686621 .
+
+<http://lod.unige.ch/buonfresco/birth/Q7814>
+        a                     crm:E67_Birth ;
+        crm:P4_has_time-span  <http://lod.unige.ch/buonfresco/timespan/Q82880> ;
+        crm:P7_took_place_at  <http://lod.unige.ch/buonfresco/place/Q82880> .
+
+<http://lod.unige.ch/buonfresco/production/fd4c5ec2-27c4-4f2b-ae92-8e3e71864867>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/fd4c5ec2-27c4-4f2b-ae92-8e3e71864867> .
+
+wd:Q3649307  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/production/e887edcc-ece5-3ea8-bae8-2d1045601992>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/e887edcc-ece5-3ea8-bae8-2d1045601992> .
+
+<http://lod.unige.ch/buonfresco/timespan/Q82880>
+        a                            crm:E52_Time-span ;
+        crm:P82a_begin_of_the_begin  "1267-01-01T00:00:00Z"^^xsd:dateTime ;
+        crm:P82b_end_of_the_end      "1267-12-31T23:59:59Z"^^xsd:dateTime .
+
+<http://lod.unige.ch/buonfresco/appellation/Q7814>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Giotto"@en .
+
+<http://lod.unige.ch/buonfresco/physical/e9a5166d-6525-41bf-8759-4db54065aca2>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "Preghiera in San Damiano"@it , "Miracle of the Crucifix"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/e9a5166d-6525-41bf-8759-4db54065aca2> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/e9a5166d-6525-41bf-8759-4db54065aca2> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3910230 .
+
+<http://lod.unige.ch/buonfresco/production/532fa8f3-7e1f-45ef-bef8-11e9a72a1578>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/532fa8f3-7e1f-45ef-bef8-11e9a72a1578> .
+
+wd:Q3798976  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/physical/7c19160e-fa5f-40df-89c8-0bea9caea361>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "Sogno di Innocenzo III"@it , "Dream of Innocent III"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/7c19160e-fa5f-40df-89c8-0bea9caea361> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/7c19160e-fa5f-40df-89c8-0bea9caea361> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3964099 .
+
+wd:Q3947096  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/physical/d4fad139-3aa0-4cde-b63b-fd6bf0110ab1>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "San Francesco dona il mantello a un povero"@it , "St Francis Giving his Mantle to a Poor Man"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/d4fad139-3aa0-4cde-b63b-fd6bf0110ab1> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/d4fad139-3aa0-4cde-b63b-fd6bf0110ab1> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3947102 .
+
+<http://lod.unige.ch/buonfresco/place/Q20103>
+        a                             crm:E53_Place ;
+        rdfs:label                    "Assisi"@en ;
+        crm:P168_place_is_defined_by  "POINT(12.60574 43.07475)"^^rdfs:Literal .
+
+<http://lod.unige.ch/buonfresco/visual/45b96403-83a5-4deb-8f3f-d08dbb70eb35>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Vision of the Flaming Chariot"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/appellation/ff9961b3-7670-48c6-967d-e756d697565f>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Legend of St Francis: 27. Confession of a Woman Raised from the Dead"@en .
+
+<http://lod.unige.ch/buonfresco/production/24edffeb-f9a9-4b41-a066-de0c6a615b93>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/24edffeb-f9a9-4b41-a066-de0c6a615b93> .
+
+<http://lod.unige.ch/buonfresco/physical/12f83e89-a78c-4eb4-b76b-3f9fb71d823f>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "Guarigione dell'uomo di Lleida"@it , "Legend of St Francis: 26. The Healing of a Devotee of the Saint"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/12f83e89-a78c-4eb4-b76b-3f9fb71d823f> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/12f83e89-a78c-4eb4-b76b-3f9fb71d823f> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3778386 .
+
+<http://lod.unige.ch/buonfresco/visual/0e412a49-d785-487a-9844-99af1017bb5f>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Stigmatization of St Francis"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/appellation/0ab06522-d46f-4319-847c-8c58564bccd4>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Canonization of St. Francis"@en .
+
+<http://lod.unige.ch/buonfresco/visual/3b0101ee-11c0-4ffd-8745-a098dbf45748>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Homage of a Simple Man"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+wd:Q3882040  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/visual/f77f1b3b-a47c-31be-80f8-d032d680365c>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Miracle of the Spring"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/appellation/e9a5166d-6525-41bf-8759-4db54065aca2>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Miracle of the Crucifix"@en .
+
+<http://lod.unige.ch/buonfresco/physical/cb4aa948-5c1f-4688-834a-4a5640c653d9>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "San Francesco appare al Capitolo di Arles"@it , "Apparition at Arles"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/cb4aa948-5c1f-4688-834a-4a5640c653d9> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/cb4aa948-5c1f-4688-834a-4a5640c653d9> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3947096 .
+
+<http://lod.unige.ch/buonfresco/production/7ad9a576-b172-3650-9592-d8742675d7ca>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/7ad9a576-b172-3650-9592-d8742675d7ca> .
+
+<http://lod.unige.ch/buonfresco/production/7c19160e-fa5f-40df-89c8-0bea9caea361>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/7c19160e-fa5f-40df-89c8-0bea9caea361> .
+
+<http://lod.unige.ch/buonfresco/visual/ff9961b3-7670-48c6-967d-e756d697565f>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Legend of St Francis: 27. Confession of a Woman Raised from the Dead"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/physical/1206f44e-abd1-4bc4-90e0-0b14db5b6c84>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "San Francesco in estasi"@it , "Ecstasy of St Francis"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/1206f44e-abd1-4bc4-90e0-0b14db5b6c84> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/1206f44e-abd1-4bc4-90e0-0b14db5b6c84> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3947106 .
+
+<http://lod.unige.ch/buonfresco/timespan/Q2044>
+        a                            crm:E52_Time-span ;
+        crm:P82a_begin_of_the_begin  "1337-01-08T00:00:00Z"^^xsd:dateTime ;
+        crm:P82b_end_of_the_end      "1337-01-08T23:59:59Z"^^xsd:dateTime .
+
+<http://lod.unige.ch/buonfresco/appellation/bb0a836c-a444-4981-817c-fb25bec8bb84>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Dream of St Gregory"@en .
+
+wd:Q3947107  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/appellation/844af9fa-cbaa-45c7-8550-1da0e1f55636>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Confirmation of the Rule"@en .
+
+<http://lod.unige.ch/buonfresco/physical/7918338d-55a9-43c6-a884-0dbfe5551073>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "Morte di san Francesco"@it , "Death and Ascension of St Francis"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/7918338d-55a9-43c6-a884-0dbfe5551073> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/7918338d-55a9-43c6-a884-0dbfe5551073> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3863246 .
+
+<http://lod.unige.ch/buonfresco/physical/6306dbdc-27de-4ecb-82d8-be9783138ad8>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "San Francesco libera l'eretico Pietro di Alife"@it , "Legend of St Francis: 28. Liberation of the Repentant Heretic"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/6306dbdc-27de-4ecb-82d8-be9783138ad8> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/6306dbdc-27de-4ecb-82d8-be9783138ad8> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3947107 .
+
+<http://lod.unige.ch/buonfresco/production/12f83e89-a78c-4eb4-b76b-3f9fb71d823f>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/12f83e89-a78c-4eb4-b76b-3f9fb71d823f> .
+
+<http://lod.unige.ch/buonfresco/visual/e9a5166d-6525-41bf-8759-4db54065aca2>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Miracle of the Crucifix"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/appellation/b77dff41-977e-4f79-9434-5988a5a75cc5>
+        a           crm:E41_Appellation ;
+        rdfs:label  "St Francis before the Sultan"@en .
+
+<http://lod.unige.ch/buonfresco/person/Q7814>
+        a                        crm:E21_Person ;
+        rdfs:label               "Giotto"@en ;
+        crm:P100i_died_in        <http://lod.unige.ch/buonfresco/death/Q2044> ;
+        crm:P14i_performed       <http://lod.unige.ch/buonfresco/production/0842b62e-b414-3027-a995-0371d9261672> , <http://lod.unige.ch/buonfresco/production/7ad9a576-b172-3650-9592-d8742675d7ca> , <http://lod.unige.ch/buonfresco/production/24edffeb-f9a9-4b41-a066-de0c6a615b93> , <http://lod.unige.ch/buonfresco/production/0e412a49-d785-487a-9844-99af1017bb5f> , <http://lod.unige.ch/buonfresco/production/fd4c5ec2-27c4-4f2b-ae92-8e3e71864867> , <http://lod.unige.ch/buonfresco/production/72fb51a5-d04c-41a5-a50e-390a6f9c1636> , <http://lod.unige.ch/buonfresco/production/d13586b5-547f-49db-a5dd-df44f2c35877> , <http://lod.unige.ch/buonfresco/production/d4fad139-3aa0-4cde-b63b-fd6bf0110ab1> , <http://lod.unige.ch/buonfresco/production/1206f44e-abd1-4bc4-90e0-0b14db5b6c84> , <http://lod.unige.ch/buonfresco/production/e887edcc-ece5-3ea8-bae8-2d1045601992> , <http://lod.unige.ch/buonfresco/production/99953f18-b5e2-49ee-9582-8b03b7156767> , <http://lod.unige.ch/buonfresco/production/b77dff41-977e-4f79-9434-5988a5a75cc5> , <http://lod.unige.ch/buonfresco/production/e9a5166d-6525-41bf-8759-4db54065aca2> , <http://lod.unige.ch/buonfresco/production/d054ffd4-95ee-4427-b7a2-c050aca665f2> , <http://lod.unige.ch/buonfresco/production/532fa8f3-7e1f-45ef-bef8-11e9a72a1578> , <http://lod.unige.ch/buonfresco/production/cb4aa948-5c1f-4688-834a-4a5640c653d9> , <http://lod.unige.ch/buonfresco/production/844af9fa-cbaa-45c7-8550-1da0e1f55636> , <http://lod.unige.ch/buonfresco/production/0ab06522-d46f-4319-847c-8c58564bccd4> , <http://lod.unige.ch/buonfresco/production/f77f1b3b-a47c-31be-80f8-d032d680365c> , <http://lod.unige.ch/buonfresco/production/7918338d-55a9-43c6-a884-0dbfe5551073> , <http://lod.unige.ch/buonfresco/production/3b0101ee-11c0-4ffd-8745-a098dbf45748> , <http://lod.unige.ch/buonfresco/production/bb0a836c-a444-4981-817c-fb25bec8bb84> , <http://lod.unige.ch/buonfresco/production/7c19160e-fa5f-40df-89c8-0bea9caea361> , <http://lod.unige.ch/buonfresco/production/9227d43e-4158-4fb4-a06d-96716f5e34e8> , <http://lod.unige.ch/buonfresco/production/45b96403-83a5-4deb-8f3f-d08dbb70eb35> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/Q7814> ;
+        crm:P98i_was_born        <http://lod.unige.ch/buonfresco/birth/Q7814> .
+
+<http://lod.unige.ch/buonfresco/production/0ab06522-d46f-4319-847c-8c58564bccd4>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/0ab06522-d46f-4319-847c-8c58564bccd4> .
+
+<http://lod.unige.ch/buonfresco/visual/d4fad139-3aa0-4cde-b63b-fd6bf0110ab1>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "St Francis Giving his Mantle to a Poor Man"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/appellation/d054ffd4-95ee-4427-b7a2-c050aca665f2>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Dream of the Palace"@en .
+
+<http://lod.unige.ch/buonfresco/physical/99953f18-b5e2-49ee-9582-8b03b7156767>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "Morte del cavaliere di Celano"@it , "Death of the Knight of Celano"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/99953f18-b5e2-49ee-9582-8b03b7156767> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/99953f18-b5e2-49ee-9582-8b03b7156767> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3863228 .
+
+wd:Q3863246  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/physical/72fb51a5-d04c-41a5-a50e-390a6f9c1636>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "Presepe di Greccio"@it , "Institution of the Crib at Greccio"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/72fb51a5-d04c-41a5-a50e-390a6f9c1636> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/72fb51a5-d04c-41a5-a50e-390a6f9c1636> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3910951 .
+
+<http://lod.unige.ch/buonfresco/production/1206f44e-abd1-4bc4-90e0-0b14db5b6c84>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/1206f44e-abd1-4bc4-90e0-0b14db5b6c84> .
+
+<http://lod.unige.ch/buonfresco/appellation/9227d43e-4158-4fb4-a06d-96716f5e34e8>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Sermon to the Birds"@en .
+
+wd:Q3947102  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/appellation/7918338d-55a9-43c6-a884-0dbfe5551073>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Death and Ascension of St Francis"@en .
+
+<http://lod.unige.ch/buonfresco/production/bb0a836c-a444-4981-817c-fb25bec8bb84>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/bb0a836c-a444-4981-817c-fb25bec8bb84> .
+
+wd:Q3769015  a  wd:Q22669139 .
+
+wd:Q3910085  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/production/844af9fa-cbaa-45c7-8550-1da0e1f55636>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/844af9fa-cbaa-45c7-8550-1da0e1f55636> .
+
+<http://lod.unige.ch/buonfresco/visual/b77dff41-977e-4f79-9434-5988a5a75cc5>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "St Francis before the Sultan"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/visual/cb4aa948-5c1f-4688-834a-4a5640c653d9>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Apparition at Arles"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/appellation/d13586b5-547f-49db-a5dd-df44f2c35877>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Apparition to Fra Agostino and to Bishop Guido of Arezzo"@en .
+
+wd:Q3947110  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/physical/fd4c5ec2-27c4-4f2b-ae92-8e3e71864867>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "San Francesco rinuncia ai beni terreni"@it , "Renunciation of Wordly Goods"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/fd4c5ec2-27c4-4f2b-ae92-8e3e71864867> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/fd4c5ec2-27c4-4f2b-ae92-8e3e71864867> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3947114 .
+
+<http://lod.unige.ch/buonfresco/physical/e887edcc-ece5-3ea8-bae8-2d1045601992>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "Cacciata dei diavoli da Arezzo"@it , "Exorcism of the Demons at Arezzo"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/e887edcc-ece5-3ea8-bae8-2d1045601992> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/e887edcc-ece5-3ea8-bae8-2d1045601992> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3649307 .
+
+<http://lod.unige.ch/buonfresco/appellation/72fb51a5-d04c-41a5-a50e-390a6f9c1636>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Institution of the Crib at Greccio"@en .
+
+<http://lod.unige.ch/buonfresco/production/d054ffd4-95ee-4427-b7a2-c050aca665f2>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/d054ffd4-95ee-4427-b7a2-c050aca665f2> .
+
+<http://lod.unige.ch/buonfresco/physical/532fa8f3-7e1f-45ef-bef8-11e9a72a1578>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "Girolamo esamina le stimmate"@it , "Verification of the Stigmata"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/532fa8f3-7e1f-45ef-bef8-11e9a72a1578> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/532fa8f3-7e1f-45ef-bef8-11e9a72a1578> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q3769015 .
+
+<http://lod.unige.ch/buonfresco/visual/7918338d-55a9-43c6-a884-0dbfe5551073>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Death and Ascension of St Francis"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/visual/6306dbdc-27de-4ecb-82d8-be9783138ad8>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Legend of St Francis: 28. Liberation of the Repentant Heretic"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/production/9227d43e-4158-4fb4-a06d-96716f5e34e8>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/9227d43e-4158-4fb4-a06d-96716f5e34e8> .
+
+<http://lod.unige.ch/buonfresco/production/0842b62e-b414-3027-a995-0371d9261672>
+        a                      crm:E12_Production ;
+        crm:P108_has_produced  <http://lod.unige.ch/buonfresco/physical/0842b62e-b414-3027-a995-0371d9261672> .
+
+wd:Q3863228  a  wd:Q22669139 .
+
+wd:Q3910230  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/appellation/Q1918385>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Master of Saint Cecilia"@en .
+
+aat:300184300  a  crm:E55_Type .
+
+<http://lod.unige.ch/buonfresco/visual/d13586b5-547f-49db-a5dd-df44f2c35877>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Apparition to Fra Agostino and to Bishop Guido of Arezzo"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+wd:Q4014779  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/visual/99953f18-b5e2-49ee-9582-8b03b7156767>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Death of the Knight of Celano"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/physical/24edffeb-f9a9-4b41-a066-de0c6a615b93>
+        a                        crm:E22_Man-Made_Object ;
+        rdfs:label               "Visione dei troni"@it , "Vision of the Trones"@en ;
+        vir:K1_denotes           <http://lod.unige.ch/buonfresco/visual/24edffeb-f9a9-4b41-a066-de0c6a615b93> ;
+        crm:P1_is_identified_by  <http://lod.unige.ch/buonfresco/appellation/24edffeb-f9a9-4b41-a066-de0c6a615b93> ;
+        crm:P2_has_type          aat:300177433 ;
+        crm:P53_has_former_or_current_location
+                <http://lod.unige.ch/buonfresco/place/Q20103> ;
+        owl:sameAs               wd:Q4014779 .
+
+wd:Q2044  a     wd:Q747074 .
+
+<http://lod.unige.ch/buonfresco/visual/72fb51a5-d04c-41a5-a50e-390a6f9c1636>
+        a                        vir:IC9_Representation ;
+        rdfs:label               "Institution of the Crib at Greccio"@en ;
+        vir:K20i_is_composed_of  <http://lod.unige.ch/buonfresco/visual/Q3087564> .
+
+<http://lod.unige.ch/buonfresco/appellation/0e412a49-d785-487a-9844-99af1017bb5f>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Stigmatization of St Francis"@en .
+
+<http://lod.unige.ch/buonfresco/appellation/3b0101ee-11c0-4ffd-8745-a098dbf45748>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Homage of a Simple Man"@en .
+
+<http://lod.unige.ch/buonfresco/appellation/f77f1b3b-a47c-31be-80f8-d032d680365c>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Miracle of the Spring"@en .
+
+wd:Q4014787  a  wd:Q22669139 .
+
+<http://lod.unige.ch/buonfresco/appellation/532fa8f3-7e1f-45ef-bef8-11e9a72a1578>
+        a           crm:E41_Appellation ;
+        rdfs:label  "Verification of the Stigmata"@en .

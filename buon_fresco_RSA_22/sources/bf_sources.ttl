@@ -1,0 +1,70 @@
+@prefix bf:    <http://lod.unige.ch/buonfresco/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix crmdig: <http://www.ics.forth.gr/isl/CRMdig/> .
+@prefix wd:    <http://www.wikidata.org/entity/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix aat:   <http://vocab.getty.edu/aat/> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace> .
+@prefix vir:   <http://w3id.org/vir#> .
+@prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix frbroo: <http://iflastandards.info/ns/fr/frbr/frbroo/> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<http://lod.unige.ch/buonfresco/person/Q449505>
+        a           crm:E21_Person ;
+        rdfs:label  "Tacita Dean"@en .
+
+<http://lod.unige.ch/buonfresco/person/Q3667479>
+        a           crm:E21_Person ;
+        rdfs:label  "Chiara Frugoni"@en .
+
+<http://lod.unige.ch/buonfresco/id/797e4992-0af1-32d7-bdc6-35db4a819e51>
+        a                crm:E42_identifier ;
+        rdfs:label       "9788806220983" ;
+        crm:P2_has_type  aat:300417443 .
+
+aat:300028051  a  crm:E55_Type .
+
+<http://lod.unige.ch/buonfresco/id/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df>
+        a                crm:E42_identifier ;
+        rdfs:label       "978-1-910164-28-0" ;
+        crm:P2_has_type  aat:300417443 .
+
+<http://lod.unige.ch/buonfresco/production/797e4992-0af1-32d7-bdc6-35db4a819e51>
+        a                     crm:E12_Production ;
+        crm:P14i_performed    <http://lod.unige.ch/buonfresco/person/Q3667479> ;
+        crm:P4_has_time-span  <http://lod.unige.ch/buonfresco/timespan/797e4992-0af1-32d7-bdc6-35db4a819e51> .
+
+<http://lod.unige.ch/buonfresco/timespan/797e4992-0af1-32d7-bdc6-35db4a819e51>
+        a                          crm:E52_Time-Span ;
+        crm:P81a_end_of_the_begin  "2015/11/17T00:00:00Z"^^xsd:dateTime ;
+        crm:P81b_begin_of_the_end  "2015/11/17T23:59:59Z"^^xsd:dateTime .
+
+aat:300417443  a  crm:E55_Type .
+
+<http://lod.unige.ch/buonfresco/text/797e4992-0af1-32d7-bdc6-35db4a819e51>
+        a                          crm:E73_Information_Object ;
+        rdfs:label                 "Quale Francesco" ;
+        crm:P108i_was_produced_by  <http://lod.unige.ch/buonfresco/production/797e4992-0af1-32d7-bdc6-35db4a819e51> ;
+        crm:P1_is_identified_by    <http://lod.unige.ch/buonfresco/id/797e4992-0af1-32d7-bdc6-35db4a819e51> ;
+        crm:P2_has_type            aat:300028051 .
+
+<http://lod.unige.ch/buonfresco/production/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df>
+        a                     crm:E12_Production ;
+        crm:P14i_performed    <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P4_has_time-span  <http://lod.unige.ch/buonfresco/timespan/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/timespan/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df>
+        a                          crm:E52_Time-Span ;
+        crm:P81a_end_of_the_begin  "2016/03/01T00:00:00Z"^^xsd:dateTime ;
+        crm:P81b_begin_of_the_end  "2016/03/31T23:59:59Z"^^xsd:dateTime .
+
+<http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df>
+        a                          crm:E73_Information_Object ;
+        rdfs:label                 "Buon Fresco" ;
+        crm:P108i_was_produced_by  <http://lod.unige.ch/buonfresco/production/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> ;
+        crm:P1_is_identified_by    <http://lod.unige.ch/buonfresco/id/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> ;
+        crm:P2_has_type            aat:300028051 .

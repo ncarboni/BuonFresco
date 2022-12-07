@@ -1,0 +1,95 @@
+<generator_policy>
+	<generator name="personURI" prefix="bf">
+		<pattern>person/{id}</pattern>
+	</generator>
+	<generator name="idURI" prefix="bf">
+		<pattern>id/{id}</pattern>
+	</generator>
+	<generator name="placeURI" prefix="bf">
+		<pattern>place/{id}</pattern>
+	</generator>
+	<generator name="appellationURI" prefix="bf">
+		<pattern>appellation/{id}</pattern>
+	</generator>
+	<generator name="symbolicURI" prefix="bf">
+		<pattern>attribute/{id}/symbolic</pattern>
+	</generator>
+	<generator name="GRappellationURI" prefix="bf">
+		<pattern>appellation/gr/{id}</pattern>
+	</generator>
+	<generator name="iconURI" prefix="bf">
+		<pattern>icon/{id}</pattern>
+	</generator>
+	<generator name="characterURI" prefix="bf">
+		<pattern>character/{id}</pattern>
+	</generator>
+	<generator name="attributeURI" prefix="bf">
+		<pattern>attribute/{id}</pattern>
+	</generator>
+	<generator name="mediaObjectURI" prefix="bf">
+		<pattern>media/{id}</pattern>
+	</generator>
+	<generator name="ObjectURI" prefix="bf">
+		<pattern>physical/{id}</pattern>
+	</generator>
+	<generator name="visualURI" prefix="bf">
+		<pattern>visual/{id}</pattern>
+	</generator>
+	<generator name="inscriptionURI" prefix="bf">
+		<pattern>inscription/{id}</pattern>
+	</generator>
+	<generator name="featureURI" prefix="bf">
+		<pattern>feature/{id}</pattern>
+	</generator>
+	<generator name="typeURI" prefix="bf">
+		<pattern>type/{id}</pattern>
+	</generator>
+	<generator name="periodURI" prefix="bf">
+		<pattern>period/{id}</pattern>
+	</generator>
+	<generator name="activityURI" prefix="bf">
+		<pattern>activity/{id}</pattern>
+	</generator>
+	<generator name="birthURI" prefix="bf">
+		<pattern>birth/{id}</pattern>
+	</generator>
+	<generator name="deathURI" prefix="bf">
+		<pattern>death/{id}</pattern>
+	</generator>
+	<generator name="productionURI" prefix="bf">
+		<pattern>production/{id}</pattern>
+	</generator>
+	<generator name="timeURI" prefix="bf">
+		<pattern>timespan/{id}</pattern>
+	</generator>
+	<generator name="prefLabel">
+		<pattern>{label}</pattern>
+	</generator>
+	<generator name="SimpleLabel">
+		<pattern>{label}</pattern>
+	</generator>
+
+	<generator name="URLwithAAT" prefix="aat">
+    <pattern>{id}</pattern>
+    </generator>
+    <generator name="URLwithWD" prefix="wd">
+    <pattern>{id}</pattern>
+    </generator>
+
+
+	<generator name="URIorUUID">
+		<custom generatorClass="gr.forth.URIorUUID">
+			<set-arg name="text"/>
+		</custom>
+	</generator>
+	<generator name="XsdTypeGenerator">
+		<custom generatorClass="gr.forth.XsdTypeGenerator">
+			<set-arg name="text"/>
+		</custom>
+	</generator>
+	 <generator name="TypedLiteralGen">
+        <custom generatorClass="gr.forth.TypedLiteralGenerator">
+            <set-arg name="text"/>
+        </custom>
+    </generator>
+</generator_policy>

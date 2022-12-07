@@ -1,0 +1,2 @@
+<http://lod.unige.ch/buonfresco/person/Q3667479> <http://www.researchspace.org/ontology/PX_has_main_representation> "https://upload.wikimedia.org/wikipedia/commons/6/6f/Chiara_Frugoni_%28Foto_Luca_Giarelli%29.jpg" .
+<http://lod.unige.ch/buonfresco/person/Q449505> <http://www.researchspace.org/ontology/PX_has_main_representation> "https://upload.wikimedia.org/wikipedia/commons/2/27/Tacita_Dean%2C_2011_-_detail.jpg" .

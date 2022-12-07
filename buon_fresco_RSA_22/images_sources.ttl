@@ -1,0 +1,2 @@
+<http://lod.unige.ch/buonfresco/text/797e4992-0af1-32d7-bdc6-35db4a819e51> <http://www.researchspace.org/ontology/PX_has_main_representation> "https://www.einaudi.it/content/uploads/2015/11/978880622098GRA.JPG" .
+<http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> <http://www.researchspace.org/ontology/PX_has_main_representation> "https://m.media-amazon.com/images/I/A1y+oAIR37L.jpg" .

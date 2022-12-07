@@ -1,0 +1,849 @@
+@prefix bf:    <http://lod.unige.ch/buonfresco/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix crmdig: <http://www.ics.forth.gr/isl/CRMdig/> .
+@prefix wd:    <http://www.wikidata.org/entity/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix aat:   <http://vocab.getty.edu/aat/> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace> .
+@prefix vir:   <http://w3id.org/vir#> .
+@prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix frbroo: <http://iflastandards.info/ns/fr/frbr/frbroo/> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<http://lod.unige.ch/buonfresco/text/4dbafda6-029f-35ff-901b-e97e22ade09b>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of the page manuscript shows that words have been effaced by corrosion. It seems that time deleted the writing. The detail creates a unique entity with the preceding fragment (finger pointing a manuscript)"@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/text/150c4fb0-0b59-3ddc-bef2-a41cf139e739>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of a wing belonging to an ancient statue of an angel turning toward right. The wing recalls a mountain. The use of gold expresses light. The detail is connected to the preceding one (angel)"@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/text/c4f2f546-bf1f-3291-b249-eefc666a6296>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of the mouth nourning belongs to a friar on the right hand side who is kissing St Francis's stimmata ascending to Heaven. The open eye is clearly visible, shaved hair are not visible. Multiple sings of corrosion on the fresco background. The picture stands in clear opposition to the preceding one (mouth contemplating) highlighting the two crucial moments of the scene (death and ascension of the saint). The picture recalls the detail of the finger pointing the stigmata at the beginning of the artist book, which is taken from the same scene."@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/visual/39e257dc-8412-3174-b6b3-0ee3ed6a43e9>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "cloud"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/fc9453c7-f33c-30e2-b34b-af5fe7cf51c6/symbolic> , <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> , <http://lod.unige.ch/buonfresco/adf8b366-14ff-3a2b-b825-1fae358153e4/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/39e257dc-8412-3174-b6b3-0ee3ed6a43e9> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/39e257dc-8412-3174-b6b3-0ee3ed6a43e9> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> , <http://lod.unige.ch/buonfresco/adf8b366-14ff-3a2b-b825-1fae358153e4/symbolic> , <http://lod.unige.ch/buonfresco/fc9453c7-f33c-30e2-b34b-af5fe7cf51c6/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/39e257dc-8412-3174-b6b3-0ee3ed6a43e9/Q3667479> .
+
+<http://lod.unige.ch/buonfresco/type/f6dbbca3-eb26-37c5-9374-0666211479a4>
+        a           crm:E55_Type ;
+        rdfs:label  "fingers"@en .
+
+<http://lod.unige.ch/buonfresco/visual/fd4c5ec2-27c4-4f2b-ae92-8e3e71864867>
+        a                       vir:IC9_Representation ;
+        vir:K20_forms_part_of   <http://lod.unige.ch/buonfresco/visual/e69b0d99-e6ba-313d-91f2-c78392b3640a> ;
+        vir:K20_is_composed_of  <http://lod.unige.ch/buonfresco/visual/e69b0d99-e6ba-313d-91f2-c78392b3640a> .
+
+<http://lod.unige.ch/buonfresco/person/Q449505>
+        a           crm:E21_Person ;
+        rdfs:label  "Tacita Dean"@en ;
+        owl:sameAs  wd:Q449505 .
+
+<http://lod.unige.ch/buonfresco/dbf286dc-04d5-3286-988a-d42f0711b9c0/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "blood"@en .
+
+<http://lod.unige.ch/buonfresco/fd408070-2c09-306d-9d46-1773c9e13bba/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "brush strokes"@en .
+
+<http://lod.unige.ch/buonfresco/text/142a5a14-405a-3b3a-946c-b75147f6e386>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of the statue of the white angel is related to the preceding details of angels painted in gold. This element is in the backgroud and appears corroded by time. It recalls in shape and color the dove fetured right after it in the artist book and yet belonging to a different panel (Sermon to the Doves)."@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/visual/92b44a61-ad8e-3781-a7e7-bdd7781f6c30>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "mouth mourning"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/34e393f0-68af-3b92-ba82-c4bcc66345be/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> , <http://lod.unige.ch/buonfresco/a9f563f7-524a-3c2c-9d50-5462cf4cd1da/symbolic> , <http://lod.unige.ch/buonfresco/c146c504-53c3-3639-afae-d080b9f2d19a/symbolic> , <http://lod.unige.ch/buonfresco/1233b430-9f6a-3b9d-95b8-33c7ef08a4a4/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/92b44a61-ad8e-3781-a7e7-bdd7781f6c30> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/92b44a61-ad8e-3781-a7e7-bdd7781f6c30> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/a9f563f7-524a-3c2c-9d50-5462cf4cd1da/symbolic> , <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> , <http://lod.unige.ch/buonfresco/1233b430-9f6a-3b9d-95b8-33c7ef08a4a4/symbolic> , <http://lod.unige.ch/buonfresco/c146c504-53c3-3639-afae-d080b9f2d19a/symbolic> , <http://lod.unige.ch/buonfresco/34e393f0-68af-3b92-ba82-c4bcc66345be/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/92b44a61-ad8e-3781-a7e7-bdd7781f6c30/Q449505> , <http://lod.unige.ch/buonfresco/recognition/92b44a61-ad8e-3781-a7e7-bdd7781f6c30/Q3667479> .
+
+<http://lod.unige.ch/buonfresco/b86c644f-9d12-3450-b725-25a01b42c6cd/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "unwanted marks"@en .
+
+<http://lod.unige.ch/buonfresco/text/db8b0617-164d-3b41-b481-398fbd5e0d95>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of an ancient statue of an angel turning toward right. The wing recalls a mountain. The use of gold expresses light. The detail is connected to the following one (wing)."@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/4039394e-4411-33b0-83c1-e1ade87d2fb7/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "pentimento"@en .
+
+<http://lod.unige.ch/buonfresco/34e393f0-68af-3b92-ba82-c4bcc66345be/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "soul"@en .
+
+<http://lod.unige.ch/buonfresco/recognition/7f5c0068-a42b-3c28-b964-0ba6f37b32e5/Q3667479>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/8fd2a008-1d25-3dd2-a0f2-9b05bcc9a6e6/symbolic> , <http://lod.unige.ch/buonfresco/159c2726-5268-34b8-aff5-5ec95b325cb3/symbolic> , <http://lod.unige.ch/buonfresco/56a101ee-0dad-3c2e-9c2c-8a77b43aeb9b/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q3667479> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/797e4992-0af1-32d7-bdc6-35db4a819e51> .
+
+<http://lod.unige.ch/buonfresco/type/3c6aebef-5b0d-3459-8231-8b1f836c170d>
+        a           crm:E55_Type ;
+        rdfs:label  "ancient statue of an angel"@en .
+
+<http://lod.unige.ch/buonfresco/recognition/e69b0d99-e6ba-313d-91f2-c78392b3640a/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/4039394e-4411-33b0-83c1-e1ade87d2fb7/symbolic> , <http://lod.unige.ch/buonfresco/f78430ef-7a3d-3ef6-8dac-62d516d6c521/symbolic> , <http://lod.unige.ch/buonfresco/137b589e-8ce7-3509-afdd-27ae798b470c/symbolic> , <http://lod.unige.ch/buonfresco/dfcc9ddd-12f1-377d-92db-26a8ade3fae3/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/text/7cf65402-f619-31fd-a366-56bd34383224>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of the mouth contemplating belongs to a friar on the left hand side who is watching in awe St Francis's soul ascending to Heaven. The red of the mouth and of the cheek stand out on the corroded fresco background. Shaved hair are slightly visible on the surface. The picture stands in clear opposition to the following one (mouth mourning) highlighting the two crucial moments of the scene (death and ascension of the saint)"@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/visual/4f26a2a3-c91e-370f-898f-cd6ad67e0498>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "finger and letters"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/a672c54e-39c8-357d-896b-d146df30e19d/symbolic> , <http://lod.unige.ch/buonfresco/4039394e-4411-33b0-83c1-e1ade87d2fb7/symbolic> , <http://lod.unige.ch/buonfresco/55705d08-5a24-3ac6-be7f-6e27a69e9b75/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/3e7b0b39-92eb-3a88-8870-d6193b98db1f> , <http://lod.unige.ch/buonfresco/type/15a0fcf2-9a92-34dc-ad39-b47f386af3a9> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/4f26a2a3-c91e-370f-898f-cd6ad67e0498> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/4039394e-4411-33b0-83c1-e1ade87d2fb7/symbolic> , <http://lod.unige.ch/buonfresco/55705d08-5a24-3ac6-be7f-6e27a69e9b75/symbolic> , <http://lod.unige.ch/buonfresco/a672c54e-39c8-357d-896b-d146df30e19d/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/4f26a2a3-c91e-370f-898f-cd6ad67e0498/Q449505> .
+
+<http://lod.unige.ch/buonfresco/text/97618e1e-b699-3114-a02d-91f12f2647e9>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of the bearded mouth is employed to show the texture of the painting and stains. It evokes the importance of senses. It is coupled with the preceding detail of the unbearded mouth because of their correspondence in shape."@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/dd8c1f02-0a20-3c13-b90a-93a17fab278e/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "light"@en .
+
+<http://lod.unige.ch/buonfresco/text/9c1c14df-f359-30c4-b2ce-5ba5add117f2>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of the unbearded mouth is employed to show the texture of the paining and signs of corrosion in the areas with hair. It evokes the importance of senses. It is coupled with the following detail of the bearded mouth because of their correspondence in shape."@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/text/a986f1e8-7f6b-3e39-b621-27ce347054ab>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of the New Gospel"@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/recognition/9c1c14df-f359-30c4-b2ce-5ba5add117f2/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/fcc58432-3e73-319c-8931-33838d73ac5f/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/b54fc094-2601-375c-b383-ffee4e3d2a87/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/text/83ab4e41-c29a-3ea6-80a5-6b77fec46754>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of the dove appears corroded by time. It recalls in shape and color the statue of the white angel fetured right before it in the artist book and yet belonging to a different panel. It also related to Lucifer in the shape of cloud in the Panel Death and Ascension of Saint Francis, and to the Ascension panel, feauring doves becoming clouds."@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/recognition/4dbafda6-029f-35ff-901b-e97e22ade09b/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/a672c54e-39c8-357d-896b-d146df30e19d/symbolic> , <http://lod.unige.ch/buonfresco/55705d08-5a24-3ac6-be7f-6e27a69e9b75/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/type/a2488e90-41ec-3a03-8612-4d08ea9f75f7>
+        a           crm:E55_Type ;
+        rdfs:label  "threshold"@en .
+
+<http://lod.unige.ch/buonfresco/visual/24edffeb-f9a9-4b41-a066-de0c6a615b93>
+        a                       vir:IC9_Representation ;
+        vir:K20_forms_part_of   <http://lod.unige.ch/buonfresco/visual/9c1c14df-f359-30c4-b2ce-5ba5add117f2> ;
+        vir:K20_is_composed_of  <http://lod.unige.ch/buonfresco/visual/9c1c14df-f359-30c4-b2ce-5ba5add117f2> .
+
+<http://lod.unige.ch/buonfresco/f65ed303-fb0b-3fd5-8c92-71fbb720348d/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "sortes apostolorum"@en .
+
+<http://lod.unige.ch/buonfresco/type/ed0bf3a9-f83c-3495-8516-820fea150de1>
+        a           crm:E55_Type ;
+        rdfs:label  "friar"@en .
+
+<http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df>
+        a           crm:E73_Information_Object ;
+        rdfs:label  "Buon Fresco"@en .
+
+<http://lod.unige.ch/buonfresco/type/4541affa-f7b4-3708-a910-13e66b258f7a>
+        a           crm:E55_Type ;
+        rdfs:label  "stigmata"@en .
+
+<http://lod.unige.ch/buonfresco/recognition/c4f2f546-bf1f-3291-b249-eefc666a6296/Q3667479>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/4ec4c71b-ca26-3eef-9b97-1495e3319cb4/symbolic> , <http://lod.unige.ch/buonfresco/34e393f0-68af-3b92-ba82-c4bcc66345be/symbolic> , <http://lod.unige.ch/buonfresco/1233b430-9f6a-3b9d-95b8-33c7ef08a4a4/symbolic> , <http://lod.unige.ch/buonfresco/a9f563f7-524a-3c2c-9d50-5462cf4cd1da/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q3667479> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/797e4992-0af1-32d7-bdc6-35db4a819e51> .
+
+<http://lod.unige.ch/buonfresco/c0fd55bf-9e97-3ab7-a62a-f243700d9a4a/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "unwanted marks (stains)"@en .
+
+<http://lod.unige.ch/buonfresco/recognition/a986f1e8-7f6b-3e39-b621-27ce347054ab/Q3667479>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/f65ed303-fb0b-3fd5-8c92-71fbb720348d/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q3667479> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/797e4992-0af1-32d7-bdc6-35db4a819e51> .
+
+<http://lod.unige.ch/buonfresco/text/f5145167-ee53-39e2-bd9f-cafd12ce2876>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of the wing of the angel Seraphin appearing to Saint Francis when receiving the stigmata recalls the shape of the hands of the friars portrayed in the preceding details. Dean lingers on the flashy pink color of the feathers and on their segmentation in two parts, showing sings of corrosion. The detail is paired with the detail of the blue roof even if in the original fresco the two details are not related. However, the color of the chapel where the blue roof stands recalls that of the wing."@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/text/e9d1e253-d3bb-3447-aecc-252394bd4b42>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of the roof of the chapel recalls the shape of the wings in the preceding detail of the pink wing. Dean focuses ont the brush strokes and on the blue color of the roof. The detail is paired with the detail of the pink wing even if in the original fresco the two details are not related. However, the color of the chapel where the blue roof stands recalls that of the wing."@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/recognition/ba066872-5f18-3b6d-afac-8778d44888b8/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/fd408070-2c09-306d-9d46-1773c9e13bba/symbolic> , <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> , <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/79066c40-8b1b-3548-b7c1-2479a42f4168/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "sacraments"@en .
+
+<http://lod.unige.ch/buonfresco/visual/e69b0d99-e6ba-313d-91f2-c78392b3640a>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "window sill"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/4039394e-4411-33b0-83c1-e1ade87d2fb7/symbolic> , <http://lod.unige.ch/buonfresco/965e3c22-2004-3d94-873b-0e2142913cb1/symbolic> , <http://lod.unige.ch/buonfresco/dfcc9ddd-12f1-377d-92db-26a8ade3fae3/symbolic> , <http://lod.unige.ch/buonfresco/137b589e-8ce7-3509-afdd-27ae798b470c/symbolic> , <http://lod.unige.ch/buonfresco/f78430ef-7a3d-3ef6-8dac-62d516d6c521/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/a2488e90-41ec-3a03-8612-4d08ea9f75f7> , <http://lod.unige.ch/buonfresco/type/da5669fc-16f3-3bfe-8fa2-1722d0037f9b> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/e69b0d99-e6ba-313d-91f2-c78392b3640a> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/f78430ef-7a3d-3ef6-8dac-62d516d6c521/symbolic> , <http://lod.unige.ch/buonfresco/137b589e-8ce7-3509-afdd-27ae798b470c/symbolic> , <http://lod.unige.ch/buonfresco/965e3c22-2004-3d94-873b-0e2142913cb1/symbolic> , <http://lod.unige.ch/buonfresco/dfcc9ddd-12f1-377d-92db-26a8ade3fae3/symbolic> , <http://lod.unige.ch/buonfresco/4039394e-4411-33b0-83c1-e1ade87d2fb7/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/e69b0d99-e6ba-313d-91f2-c78392b3640a/Q3667479> , <http://lod.unige.ch/buonfresco/recognition/e69b0d99-e6ba-313d-91f2-c78392b3640a/Q449505> .
+
+<http://lod.unige.ch/buonfresco/9912a0e1-fcb3-3d15-b17a-ac7ad651fc26/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "alter-Christus"@en .
+
+<http://lod.unige.ch/buonfresco/type/9c1c14df-f359-30c4-b2ce-5ba5add117f2>
+        a           crm:E55_Type ;
+        rdfs:label  "unbearded mouth"@en .
+
+<http://lod.unige.ch/buonfresco/recognition/c4fea355-363b-3cfb-867b-0f62355283e7/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/b86c644f-9d12-3450-b725-25a01b42c6cd/symbolic> , <http://lod.unige.ch/buonfresco/dfcc9ddd-12f1-377d-92db-26a8ade3fae3/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/visual/1857fa55-0e10-3a8e-aa32-3d6b9ae63079>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "smile"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> , <http://lod.unige.ch/buonfresco/adf8b366-14ff-3a2b-b825-1fae358153e4/symbolic> , <http://lod.unige.ch/buonfresco/fc9453c7-f33c-30e2-b34b-af5fe7cf51c6/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/39e257dc-8412-3174-b6b3-0ee3ed6a43e9> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/1857fa55-0e10-3a8e-aa32-3d6b9ae63079> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> , <http://lod.unige.ch/buonfresco/adf8b366-14ff-3a2b-b825-1fae358153e4/symbolic> , <http://lod.unige.ch/buonfresco/fc9453c7-f33c-30e2-b34b-af5fe7cf51c6/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/1857fa55-0e10-3a8e-aa32-3d6b9ae63079/Q449505> .
+
+<http://lod.unige.ch/buonfresco/text/39e257dc-8412-3174-b6b3-0ee3ed6a43e9>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of a cloud smiling."@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/8fd2a008-1d25-3dd2-a0f2-9b05bcc9a6e6/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "Legenda Maior"@en .
+
+<http://lod.unige.ch/buonfresco/type/5ff4ca28-5bdc-352b-aa7f-7a7901f9eda1>
+        a           crm:E55_Type ;
+        rdfs:label  "foot's fingers"@en .
+
+<http://lod.unige.ch/buonfresco/recognition/55e58e0d-e9b7-33e0-b895-02dfbc808f6a/Q3667479>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/79066c40-8b1b-3548-b7c1-2479a42f4168/symbolic> , <http://lod.unige.ch/buonfresco/629a6b49-2bce-35f8-986c-ed39d57e5945/symbolic> , <http://lod.unige.ch/buonfresco/8708967c-f0a9-34be-9c1b-25397022e927/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q3667479> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/797e4992-0af1-32d7-bdc6-35db4a819e51> .
+
+<http://lod.unige.ch/buonfresco/type/31396956-853f-33ac-935c-7e82ce5bdbb7>
+        a           crm:E55_Type ;
+        rdfs:label  "mourning"@en .
+
+<http://lod.unige.ch/buonfresco/visual/99074886-7874-3ecc-bafe-d1a3a7e09baf>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "flower"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/adf8b366-14ff-3a2b-b825-1fae358153e4/symbolic> , <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> , <http://lod.unige.ch/buonfresco/c0fd55bf-9e97-3ab7-a62a-f243700d9a4a/symbolic> , <http://lod.unige.ch/buonfresco/dbf286dc-04d5-3286-988a-d42f0711b9c0/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/99074886-7874-3ecc-bafe-d1a3a7e09baf> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/99074886-7874-3ecc-bafe-d1a3a7e09baf> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/c0fd55bf-9e97-3ab7-a62a-f243700d9a4a/symbolic> , <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> , <http://lod.unige.ch/buonfresco/dbf286dc-04d5-3286-988a-d42f0711b9c0/symbolic> , <http://lod.unige.ch/buonfresco/adf8b366-14ff-3a2b-b825-1fae358153e4/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/99074886-7874-3ecc-bafe-d1a3a7e09baf/Q449505> .
+
+<http://lod.unige.ch/buonfresco/text/797e4992-0af1-32d7-bdc6-35db4a819e51>
+        a           crm:E73_Information_Object ;
+        rdfs:label  "Quale Francesco"@en .
+
+<http://lod.unige.ch/buonfresco/recognition/e69b0d99-e6ba-313d-91f2-c78392b3640a/Q3667479>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/965e3c22-2004-3d94-873b-0e2142913cb1/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q3667479> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/797e4992-0af1-32d7-bdc6-35db4a819e51> .
+
+<http://lod.unige.ch/buonfresco/text/92b44a61-ad8e-3781-a7e7-bdd7781f6c30>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of the mouth nourning belongs to a friar on the right hand side who is kissing St Francis's stimmata ascending to Heaven. The open eye is clearly visible, shaved hair are not visible. Multiple sings of corrosion on the fresco background. The picture stands in clear opposition to the preceding one (mouth contemplating) highlighting the two crucial moments of the scene (death and ascension of the saint). The picture recalls the detail of the finger pointing the stigmata at the beginning of the artist book, which is taken from the same scene."@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/f78430ef-7a3d-3ef6-8dac-62d516d6c521/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "giornate"@en .
+
+<http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "humanity"@en .
+
+<http://lod.unige.ch/buonfresco/visual/cdd981e2-401c-3fee-9e16-e3761dfc1913>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "fingers and letters"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> , <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/3e7b0b39-92eb-3a88-8870-d6193b98db1f> , <http://lod.unige.ch/buonfresco/type/f6dbbca3-eb26-37c5-9374-0666211479a4> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/cdd981e2-401c-3fee-9e16-e3761dfc1913> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> , <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/cdd981e2-401c-3fee-9e16-e3761dfc1913/Q449505> .
+
+<http://lod.unige.ch/buonfresco/visual/4dbafda6-029f-35ff-901b-e97e22ade09b>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "letters"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/a672c54e-39c8-357d-896b-d146df30e19d/symbolic> , <http://lod.unige.ch/buonfresco/55705d08-5a24-3ac6-be7f-6e27a69e9b75/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/3e7b0b39-92eb-3a88-8870-d6193b98db1f> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/4dbafda6-029f-35ff-901b-e97e22ade09b> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/a672c54e-39c8-357d-896b-d146df30e19d/symbolic> , <http://lod.unige.ch/buonfresco/55705d08-5a24-3ac6-be7f-6e27a69e9b75/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/4dbafda6-029f-35ff-901b-e97e22ade09b/Q449505> .
+
+<http://lod.unige.ch/buonfresco/type/138da9b1-36e8-30fe-a8b9-e3c86ff3bee7>
+        a           crm:E55_Type ;
+        rdfs:label  "mountain"@en .
+
+<http://lod.unige.ch/buonfresco/a9f563f7-524a-3c2c-9d50-5462cf4cd1da/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "death"@en .
+
+<http://lod.unige.ch/buonfresco/recognition/92b44a61-ad8e-3781-a7e7-bdd7781f6c30/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> , <http://lod.unige.ch/buonfresco/c146c504-53c3-3639-afae-d080b9f2d19a/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/text/4f26a2a3-c91e-370f-898f-cd6ad67e0498>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of the finger holding the manuscript creates a unique entity with the preceding fragment (manuscript). From this perspective, it seems that the finger is pointing on particular word/manuscript area. The artist shows the pentimenti surrounding the finger. In the same areas of the pentimenti paint has been consumed."@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/recognition/150c4fb0-0b59-3ddc-bef2-a41cf139e739/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/adf8b366-14ff-3a2b-b825-1fae358153e4/symbolic> , <http://lod.unige.ch/buonfresco/dd8c1f02-0a20-3c13-b90a-93a17fab278e/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/recognition/7cf65402-f619-31fd-a366-56bd34383224/Q3667479>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/79066c40-8b1b-3548-b7c1-2479a42f4168/symbolic> , <http://lod.unige.ch/buonfresco/629a6b49-2bce-35f8-986c-ed39d57e5945/symbolic> , <http://lod.unige.ch/buonfresco/8708967c-f0a9-34be-9c1b-25397022e927/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q3667479> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/797e4992-0af1-32d7-bdc6-35db4a819e51> .
+
+wd:Q449505  a   wd:Q5 .
+
+<http://lod.unige.ch/buonfresco/visual/142a5a14-405a-3b3a-946c-b75147f6e386>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "white angel"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/fcc58432-3e73-319c-8931-33838d73ac5f/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/b54fc094-2601-375c-b383-ffee4e3d2a87/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/3c6aebef-5b0d-3459-8231-8b1f836c170d> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/142a5a14-405a-3b3a-946c-b75147f6e386> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/fcc58432-3e73-319c-8931-33838d73ac5f/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/b54fc094-2601-375c-b383-ffee4e3d2a87/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/142a5a14-405a-3b3a-946c-b75147f6e386/Q449505> .
+
+<http://lod.unige.ch/buonfresco/type/39e257dc-8412-3174-b6b3-0ee3ed6a43e9>
+        a           crm:E55_Type ;
+        rdfs:label  "cloud"@en .
+
+<http://lod.unige.ch/buonfresco/visual/db8b0617-164d-3b41-b481-398fbd5e0d95>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "wing"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/adf8b366-14ff-3a2b-b825-1fae358153e4/symbolic> , <http://lod.unige.ch/buonfresco/dd8c1f02-0a20-3c13-b90a-93a17fab278e/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/3c6aebef-5b0d-3459-8231-8b1f836c170d> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/db8b0617-164d-3b41-b481-398fbd5e0d95> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/dd8c1f02-0a20-3c13-b90a-93a17fab278e/symbolic> , <http://lod.unige.ch/buonfresco/adf8b366-14ff-3a2b-b825-1fae358153e4/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/db8b0617-164d-3b41-b481-398fbd5e0d95/Q3667479> , <http://lod.unige.ch/buonfresco/recognition/db8b0617-164d-3b41-b481-398fbd5e0d95/Q449505> .
+
+<http://lod.unige.ch/buonfresco/recognition/4f26a2a3-c91e-370f-898f-cd6ad67e0498/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/4039394e-4411-33b0-83c1-e1ade87d2fb7/symbolic> , <http://lod.unige.ch/buonfresco/a672c54e-39c8-357d-896b-d146df30e19d/symbolic> , <http://lod.unige.ch/buonfresco/55705d08-5a24-3ac6-be7f-6e27a69e9b75/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/type/0958fa58-4ff6-3d84-8b98-5982b67b7d4d>
+        a           crm:E55_Type ;
+        rdfs:label  "roof"@en .
+
+<http://lod.unige.ch/buonfresco/629a6b49-2bce-35f8-986c-ed39d57e5945/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "priests"@en .
+
+aat:300435416  a  crm:E55_Type .
+
+<http://lod.unige.ch/buonfresco/visual/c4fea355-363b-3cfb-867b-0f62355283e7>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "finger pointing the stigmata"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/1233b430-9f6a-3b9d-95b8-33c7ef08a4a4/symbolic> , <http://lod.unige.ch/buonfresco/dfcc9ddd-12f1-377d-92db-26a8ade3fae3/symbolic> , <http://lod.unige.ch/buonfresco/b86c644f-9d12-3450-b725-25a01b42c6cd/symbolic> , <http://lod.unige.ch/buonfresco/9912a0e1-fcb3-3d15-b17a-ac7ad651fc26/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/15a0fcf2-9a92-34dc-ad39-b47f386af3a9> , <http://lod.unige.ch/buonfresco/type/4541affa-f7b4-3708-a910-13e66b258f7a> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/c4fea355-363b-3cfb-867b-0f62355283e7> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/dfcc9ddd-12f1-377d-92db-26a8ade3fae3/symbolic> , <http://lod.unige.ch/buonfresco/1233b430-9f6a-3b9d-95b8-33c7ef08a4a4/symbolic> , <http://lod.unige.ch/buonfresco/9912a0e1-fcb3-3d15-b17a-ac7ad651fc26/symbolic> , <http://lod.unige.ch/buonfresco/b86c644f-9d12-3450-b725-25a01b42c6cd/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/c4fea355-363b-3cfb-867b-0f62355283e7/Q3667479> , <http://lod.unige.ch/buonfresco/recognition/c4fea355-363b-3cfb-867b-0f62355283e7/Q449505> .
+
+<http://lod.unige.ch/buonfresco/type/92b44a61-ad8e-3781-a7e7-bdd7781f6c30>
+        a           crm:E55_Type ;
+        rdfs:label  "mouth mourning"@en .
+
+<http://lod.unige.ch/buonfresco/56a101ee-0dad-3c2e-9c2c-8a77b43aeb9b/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "Bonaventure"@en .
+
+<http://lod.unige.ch/buonfresco/visual/97618e1e-b699-3114-a02d-91f12f2647e9>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "bearded mouth"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/fcc58432-3e73-319c-8931-33838d73ac5f/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/b54fc094-2601-375c-b383-ffee4e3d2a87/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/97618e1e-b699-3114-a02d-91f12f2647e9> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/97618e1e-b699-3114-a02d-91f12f2647e9> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/fcc58432-3e73-319c-8931-33838d73ac5f/symbolic> , <http://lod.unige.ch/buonfresco/b54fc094-2601-375c-b383-ffee4e3d2a87/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/97618e1e-b699-3114-a02d-91f12f2647e9/Q449505> .
+
+<http://lod.unige.ch/buonfresco/8708967c-f0a9-34be-9c1b-25397022e927/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "clergymen"@en .
+
+<http://lod.unige.ch/buonfresco/recognition/55e58e0d-e9b7-33e0-b895-02dfbc808f6a/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/fd408070-2c09-306d-9d46-1773c9e13bba/symbolic> , <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> , <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/visual/55e58e0d-e9b7-33e0-b895-02dfbc808f6a>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "mouth wide open"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> , <http://lod.unige.ch/buonfresco/79066c40-8b1b-3548-b7c1-2479a42f4168/symbolic> , <http://lod.unige.ch/buonfresco/fd408070-2c09-306d-9d46-1773c9e13bba/symbolic> , <http://lod.unige.ch/buonfresco/629a6b49-2bce-35f8-986c-ed39d57e5945/symbolic> , <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> , <http://lod.unige.ch/buonfresco/8708967c-f0a9-34be-9c1b-25397022e927/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/55e58e0d-e9b7-33e0-b895-02dfbc808f6a> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/55e58e0d-e9b7-33e0-b895-02dfbc808f6a> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/629a6b49-2bce-35f8-986c-ed39d57e5945/symbolic> , <http://lod.unige.ch/buonfresco/fd408070-2c09-306d-9d46-1773c9e13bba/symbolic> , <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> , <http://lod.unige.ch/buonfresco/79066c40-8b1b-3548-b7c1-2479a42f4168/symbolic> , <http://lod.unige.ch/buonfresco/8708967c-f0a9-34be-9c1b-25397022e927/symbolic> , <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/55e58e0d-e9b7-33e0-b895-02dfbc808f6a/Q3667479> , <http://lod.unige.ch/buonfresco/recognition/55e58e0d-e9b7-33e0-b895-02dfbc808f6a/Q449505> .
+
+<http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "corrosion"@en .
+
+<http://lod.unige.ch/buonfresco/visual/9227d43e-4158-4fb4-a06d-96716f5e34e8>
+        a                       vir:IC9_Representation ;
+        vir:K20_forms_part_of   <http://lod.unige.ch/buonfresco/visual/83ab4e41-c29a-3ea6-80a5-6b77fec46754> ;
+        vir:K20_is_composed_of  <http://lod.unige.ch/buonfresco/visual/83ab4e41-c29a-3ea6-80a5-6b77fec46754> .
+
+<http://lod.unige.ch/buonfresco/recognition/83ab4e41-c29a-3ea6-80a5-6b77fec46754/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/fcc58432-3e73-319c-8931-33838d73ac5f/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/b54fc094-2601-375c-b383-ffee4e3d2a87/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/visual/83ab4e41-c29a-3ea6-80a5-6b77fec46754>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "white dove"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/fcc58432-3e73-319c-8931-33838d73ac5f/symbolic> , <http://lod.unige.ch/buonfresco/b54fc094-2601-375c-b383-ffee4e3d2a87/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/cb7b7c49-5698-34d8-b6c0-3e87e6cffa1d> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/83ab4e41-c29a-3ea6-80a5-6b77fec46754> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/fcc58432-3e73-319c-8931-33838d73ac5f/symbolic> , <http://lod.unige.ch/buonfresco/b54fc094-2601-375c-b383-ffee4e3d2a87/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/83ab4e41-c29a-3ea6-80a5-6b77fec46754/Q449505> .
+
+<http://lod.unige.ch/buonfresco/visual/39684211-c880-3278-bf61-6bb3e4bc1e11>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "rocky surface"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/c0fd55bf-9e97-3ab7-a62a-f243700d9a4a/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/adf8b366-14ff-3a2b-b825-1fae358153e4/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/138da9b1-36e8-30fe-a8b9-e3c86ff3bee7> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/39684211-c880-3278-bf61-6bb3e4bc1e11> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/c0fd55bf-9e97-3ab7-a62a-f243700d9a4a/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/adf8b366-14ff-3a2b-b825-1fae358153e4/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/39684211-c880-3278-bf61-6bb3e4bc1e11/Q449505> .
+
+<http://lod.unige.ch/buonfresco/text/e69b0d99-e6ba-313d-91f2-c78392b3640a>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of window sill is a pretext to show the 300 artist's pentimenti. Employed as the cover of the artist book, it also functions as a threshold to the work; it evocates the priviledged point of view offered by Dean on Giotto's frescoes."@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/recognition/7cf65402-f619-31fd-a366-56bd34383224/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> , <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+wd:Q3667479  a  wd:Q5 .
+
+<http://lod.unige.ch/buonfresco/type/da5669fc-16f3-3bfe-8fa2-1722d0037f9b>
+        a           crm:E55_Type ;
+        rdfs:label  "window"@en .
+
+<http://lod.unige.ch/buonfresco/recognition/150c4fb0-0b59-3ddc-bef2-a41cf139e739/Q3667479>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/09c2eada-d5a3-3e80-b551-3fa77e08c642/symbolic> , <http://lod.unige.ch/buonfresco/09daf100-eb62-3af4-9a32-5951138092cc/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q3667479> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/797e4992-0af1-32d7-bdc6-35db4a819e51> .
+
+<http://lod.unige.ch/buonfresco/text/1857fa55-0e10-3a8e-aa32-3d6b9ae63079>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of a cloud smiling."@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/type/3e7b0b39-92eb-3a88-8870-d6193b98db1f>
+        a           crm:E55_Type ;
+        rdfs:label  "manuscript"@en .
+
+<http://lod.unige.ch/buonfresco/55705d08-5a24-3ac6-be7f-6e27a69e9b75/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "word"@en .
+
+<http://lod.unige.ch/buonfresco/text/99074886-7874-3ecc-bafe-d1a3a7e09baf>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of the flower that in the fresco stands below St Francis receiving the stigmata shows corrosion and unwanted marks. Red stains falling down from the flower's stalk appear as blood tears representing the wounds and pain connected with the stigmata."@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/recognition/e9d1e253-d3bb-3447-aecc-252394bd4b42/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/fcc58432-3e73-319c-8931-33838d73ac5f/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/b54fc094-2601-375c-b383-ffee4e3d2a87/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/text/cdd981e2-401c-3fee-9e16-e3761dfc1913>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of the hand holding the manuscript shows the corrosion on the fingers and the brush strokes repreenting light."@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/09daf100-eb62-3af4-9a32-5951138092cc/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "pagan"@en .
+
+<http://lod.unige.ch/buonfresco/visual/ba066872-5f18-3b6d-afac-8778d44888b8>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "mouth open"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/8708967c-f0a9-34be-9c1b-25397022e927/symbolic> , <http://lod.unige.ch/buonfresco/79066c40-8b1b-3548-b7c1-2479a42f4168/symbolic> , <http://lod.unige.ch/buonfresco/fd408070-2c09-306d-9d46-1773c9e13bba/symbolic> , <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> , <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> , <http://lod.unige.ch/buonfresco/629a6b49-2bce-35f8-986c-ed39d57e5945/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/ba066872-5f18-3b6d-afac-8778d44888b8> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/ba066872-5f18-3b6d-afac-8778d44888b8> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/629a6b49-2bce-35f8-986c-ed39d57e5945/symbolic> , <http://lod.unige.ch/buonfresco/fd408070-2c09-306d-9d46-1773c9e13bba/symbolic> , <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> , <http://lod.unige.ch/buonfresco/79066c40-8b1b-3548-b7c1-2479a42f4168/symbolic> , <http://lod.unige.ch/buonfresco/8708967c-f0a9-34be-9c1b-25397022e927/symbolic> , <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/ba066872-5f18-3b6d-afac-8778d44888b8/Q3667479> , <http://lod.unige.ch/buonfresco/recognition/ba066872-5f18-3b6d-afac-8778d44888b8/Q449505> .
+
+<http://lod.unige.ch/buonfresco/recognition/cdd981e2-401c-3fee-9e16-e3761dfc1913/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> , <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/137b589e-8ce7-3509-afdd-27ae798b470c/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "time"@en .
+
+<http://lod.unige.ch/buonfresco/09c2eada-d5a3-3e80-b551-3fa77e08c642/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "Islam"@en .
+
+<http://lod.unige.ch/buonfresco/adf8b366-14ff-3a2b-b825-1fae358153e4/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "nature"@en .
+
+<http://lod.unige.ch/buonfresco/fcc58432-3e73-319c-8931-33838d73ac5f/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "analogy"@en .
+
+<http://lod.unige.ch/buonfresco/visual/0e412a49-d785-487a-9844-99af1017bb5f>
+        a                       vir:IC9_Representation ;
+        vir:K20_forms_part_of   <http://lod.unige.ch/buonfresco/visual/39684211-c880-3278-bf61-6bb3e4bc1e11> , <http://lod.unige.ch/buonfresco/visual/a986f1e8-7f6b-3e39-b621-27ce347054ab> , <http://lod.unige.ch/buonfresco/visual/cdd981e2-401c-3fee-9e16-e3761dfc1913> , <http://lod.unige.ch/buonfresco/visual/f6dbbca3-eb26-37c5-9374-0666211479a4> , <http://lod.unige.ch/buonfresco/visual/f5145167-ee53-39e2-bd9f-cafd12ce2876> , <http://lod.unige.ch/buonfresco/visual/7f5c0068-a42b-3c28-b964-0ba6f37b32e5> , <http://lod.unige.ch/buonfresco/visual/97618e1e-b699-3114-a02d-91f12f2647e9> , <http://lod.unige.ch/buonfresco/visual/e9d1e253-d3bb-3447-aecc-252394bd4b42> , <http://lod.unige.ch/buonfresco/visual/99074886-7874-3ecc-bafe-d1a3a7e09baf> , <http://lod.unige.ch/buonfresco/visual/4f26a2a3-c91e-370f-898f-cd6ad67e0498> , <http://lod.unige.ch/buonfresco/visual/4dbafda6-029f-35ff-901b-e97e22ade09b> ;
+        vir:K20_is_composed_of  <http://lod.unige.ch/buonfresco/visual/7f5c0068-a42b-3c28-b964-0ba6f37b32e5> , <http://lod.unige.ch/buonfresco/visual/a986f1e8-7f6b-3e39-b621-27ce347054ab> , <http://lod.unige.ch/buonfresco/visual/cdd981e2-401c-3fee-9e16-e3761dfc1913> , <http://lod.unige.ch/buonfresco/visual/f6dbbca3-eb26-37c5-9374-0666211479a4> , <http://lod.unige.ch/buonfresco/visual/39684211-c880-3278-bf61-6bb3e4bc1e11> , <http://lod.unige.ch/buonfresco/visual/99074886-7874-3ecc-bafe-d1a3a7e09baf> , <http://lod.unige.ch/buonfresco/visual/97618e1e-b699-3114-a02d-91f12f2647e9> , <http://lod.unige.ch/buonfresco/visual/e9d1e253-d3bb-3447-aecc-252394bd4b42> , <http://lod.unige.ch/buonfresco/visual/f5145167-ee53-39e2-bd9f-cafd12ce2876> , <http://lod.unige.ch/buonfresco/visual/4f26a2a3-c91e-370f-898f-cd6ad67e0498> , <http://lod.unige.ch/buonfresco/visual/4dbafda6-029f-35ff-901b-e97e22ade09b> .
+
+<http://lod.unige.ch/buonfresco/recognition/39684211-c880-3278-bf61-6bb3e4bc1e11/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/c0fd55bf-9e97-3ab7-a62a-f243700d9a4a/symbolic> , <http://lod.unige.ch/buonfresco/adf8b366-14ff-3a2b-b825-1fae358153e4/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/text/c4fea355-363b-3cfb-867b-0f62355283e7>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of the finger pointing the stigmata is isolated to show the correspondences in shape, colorm and composition between the wanted brown oval mark of the stigmata and the unwanted brown round stain on the finger. The picture recalls the detail of the mouth mourning in the artist book, which is taken from the same scene."@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/type/99074886-7874-3ecc-bafe-d1a3a7e09baf>
+        a           crm:E55_Type ;
+        rdfs:label  "flower"@en .
+
+<http://lod.unige.ch/buonfresco/recognition/c4fea355-363b-3cfb-867b-0f62355283e7/Q3667479>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/9912a0e1-fcb3-3d15-b17a-ac7ad651fc26/symbolic> , <http://lod.unige.ch/buonfresco/1233b430-9f6a-3b9d-95b8-33c7ef08a4a4/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q3667479> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/797e4992-0af1-32d7-bdc6-35db4a819e51> .
+
+<http://lod.unige.ch/buonfresco/4ec4c71b-ca26-3eef-9b97-1495e3319cb4/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "ascension"@en .
+
+<http://lod.unige.ch/buonfresco/visual/f6dbbca3-eb26-37c5-9374-0666211479a4>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "fingers"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> , <http://lod.unige.ch/buonfresco/dbf286dc-04d5-3286-988a-d42f0711b9c0/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/c0fd55bf-9e97-3ab7-a62a-f243700d9a4a/symbolic> , <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/5ff4ca28-5bdc-352b-aa7f-7a7901f9eda1> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/f6dbbca3-eb26-37c5-9374-0666211479a4> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> , <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> , <http://lod.unige.ch/buonfresco/c0fd55bf-9e97-3ab7-a62a-f243700d9a4a/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/dbf286dc-04d5-3286-988a-d42f0711b9c0/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/f6dbbca3-eb26-37c5-9374-0666211479a4/Q449505> .
+
+<http://lod.unige.ch/buonfresco/visual/7f5c0068-a42b-3c28-b964-0ba6f37b32e5>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "stigmate"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/159c2726-5268-34b8-aff5-5ec95b325cb3/symbolic> , <http://lod.unige.ch/buonfresco/56a101ee-0dad-3c2e-9c2c-8a77b43aeb9b/symbolic> , <http://lod.unige.ch/buonfresco/8fd2a008-1d25-3dd2-a0f2-9b05bcc9a6e6/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/4541affa-f7b4-3708-a910-13e66b258f7a> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/7f5c0068-a42b-3c28-b964-0ba6f37b32e5> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/56a101ee-0dad-3c2e-9c2c-8a77b43aeb9b/symbolic> , <http://lod.unige.ch/buonfresco/8fd2a008-1d25-3dd2-a0f2-9b05bcc9a6e6/symbolic> , <http://lod.unige.ch/buonfresco/159c2726-5268-34b8-aff5-5ec95b325cb3/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/7f5c0068-a42b-3c28-b964-0ba6f37b32e5/Q3667479> .
+
+<http://lod.unige.ch/buonfresco/text/55e58e0d-e9b7-33e0-b895-02dfbc808f6a>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of the mouth wide open belongs on the fresco to the second friar singing. Dean isolates the detail and inverts the order of apparition of the mouth detail in the artist book. Brush strokes are visible in the rendering of the cheeks and of the mouth. Shaved hair are slightly visible on the surface. An ascetic expression such as that of singing to God is transformed in a carnal manifestation of the senses"@en , "The detail of the mouth wide open belongs on the fresco to the second friar singing. Dean isolates the detail and inverts the order of apparition of the mouth detail in the artist book. Brush strokes are visible in the rendering of the cheeks and of the mouth. Shaved hair are slightly visible on the surface. An ascetic expression such as that of singing to God is transformed in a carnal manifestation of the senses recalling Francis Bacon's painting."@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/text/39684211-c880-3278-bf61-6bb3e4bc1e11>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of the rocky/mountain landscape shows the porosity of the rock which is reflected in the porosity of the paint. Unwanted marks (stains) and corrosion are visible."@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/recognition/99074886-7874-3ecc-bafe-d1a3a7e09baf/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/c0fd55bf-9e97-3ab7-a62a-f243700d9a4a/symbolic> , <http://lod.unige.ch/buonfresco/dbf286dc-04d5-3286-988a-d42f0711b9c0/symbolic> , <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> , <http://lod.unige.ch/buonfresco/adf8b366-14ff-3a2b-b825-1fae358153e4/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/b54fc094-2601-375c-b383-ffee4e3d2a87/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "paint"@en .
+
+<http://lod.unige.ch/buonfresco/recognition/92b44a61-ad8e-3781-a7e7-bdd7781f6c30/Q3667479>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/34e393f0-68af-3b92-ba82-c4bcc66345be/symbolic> , <http://lod.unige.ch/buonfresco/1233b430-9f6a-3b9d-95b8-33c7ef08a4a4/symbolic> , <http://lod.unige.ch/buonfresco/a9f563f7-524a-3c2c-9d50-5462cf4cd1da/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q3667479> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/797e4992-0af1-32d7-bdc6-35db4a819e51> .
+
+<http://lod.unige.ch/buonfresco/recognition/39e257dc-8412-3174-b6b3-0ee3ed6a43e9/Q3667479>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/fc9453c7-f33c-30e2-b34b-af5fe7cf51c6/symbolic> , <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> , <http://lod.unige.ch/buonfresco/adf8b366-14ff-3a2b-b825-1fae358153e4/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q3667479> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/797e4992-0af1-32d7-bdc6-35db4a819e51> .
+
+<http://lod.unige.ch/buonfresco/type/6605bfa4-9509-3493-aa67-45212ede2a76>
+        a           crm:E55_Type ;
+        rdfs:label  "hands"@en .
+
+<http://lod.unige.ch/buonfresco/recognition/142a5a14-405a-3b3a-946c-b75147f6e386/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/fcc58432-3e73-319c-8931-33838d73ac5f/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/b54fc094-2601-375c-b383-ffee4e3d2a87/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/type/db8b0617-164d-3b41-b481-398fbd5e0d95>
+        a           crm:E55_Type ;
+        rdfs:label  "wing"@en .
+
+<http://lod.unige.ch/buonfresco/recognition/ba066872-5f18-3b6d-afac-8778d44888b8/Q3667479>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/79066c40-8b1b-3548-b7c1-2479a42f4168/symbolic> , <http://lod.unige.ch/buonfresco/629a6b49-2bce-35f8-986c-ed39d57e5945/symbolic> , <http://lod.unige.ch/buonfresco/8708967c-f0a9-34be-9c1b-25397022e927/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q3667479> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/797e4992-0af1-32d7-bdc6-35db4a819e51> .
+
+<http://lod.unige.ch/buonfresco/fc9453c7-f33c-30e2-b34b-af5fe7cf51c6/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "personification"@en .
+
+<http://lod.unige.ch/buonfresco/visual/150c4fb0-0b59-3ddc-bef2-a41cf139e739>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "angel and wing"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/adf8b366-14ff-3a2b-b825-1fae358153e4/symbolic> , <http://lod.unige.ch/buonfresco/dd8c1f02-0a20-3c13-b90a-93a17fab278e/symbolic> , <http://lod.unige.ch/buonfresco/09c2eada-d5a3-3e80-b551-3fa77e08c642/symbolic> , <http://lod.unige.ch/buonfresco/09daf100-eb62-3af4-9a32-5951138092cc/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/3c6aebef-5b0d-3459-8231-8b1f836c170d> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/150c4fb0-0b59-3ddc-bef2-a41cf139e739> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/09c2eada-d5a3-3e80-b551-3fa77e08c642/symbolic> , <http://lod.unige.ch/buonfresco/dd8c1f02-0a20-3c13-b90a-93a17fab278e/symbolic> , <http://lod.unige.ch/buonfresco/09daf100-eb62-3af4-9a32-5951138092cc/symbolic> , <http://lod.unige.ch/buonfresco/adf8b366-14ff-3a2b-b825-1fae358153e4/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/150c4fb0-0b59-3ddc-bef2-a41cf139e739/Q3667479> , <http://lod.unige.ch/buonfresco/recognition/150c4fb0-0b59-3ddc-bef2-a41cf139e739/Q449505> .
+
+<http://lod.unige.ch/buonfresco/visual/c4f2f546-bf1f-3291-b249-eefc666a6296>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "friar holding hands to his face"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/4ec4c71b-ca26-3eef-9b97-1495e3319cb4/symbolic> , <http://lod.unige.ch/buonfresco/a9f563f7-524a-3c2c-9d50-5462cf4cd1da/symbolic> , <http://lod.unige.ch/buonfresco/34e393f0-68af-3b92-ba82-c4bcc66345be/symbolic> , <http://lod.unige.ch/buonfresco/1233b430-9f6a-3b9d-95b8-33c7ef08a4a4/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/ed0bf3a9-f83c-3495-8516-820fea150de1> , <http://lod.unige.ch/buonfresco/type/6605bfa4-9509-3493-aa67-45212ede2a76> , <http://lod.unige.ch/buonfresco/type/31396956-853f-33ac-935c-7e82ce5bdbb7> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/c4f2f546-bf1f-3291-b249-eefc666a6296> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/4ec4c71b-ca26-3eef-9b97-1495e3319cb4/symbolic> , <http://lod.unige.ch/buonfresco/1233b430-9f6a-3b9d-95b8-33c7ef08a4a4/symbolic> , <http://lod.unige.ch/buonfresco/34e393f0-68af-3b92-ba82-c4bcc66345be/symbolic> , <http://lod.unige.ch/buonfresco/a9f563f7-524a-3c2c-9d50-5462cf4cd1da/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/c4f2f546-bf1f-3291-b249-eefc666a6296/Q3667479> .
+
+<http://lod.unige.ch/buonfresco/type/7cf65402-f619-31fd-a366-56bd34383224>
+        a           crm:E55_Type ;
+        rdfs:label  "mouth contemplating"@en .
+
+<http://lod.unige.ch/buonfresco/type/97618e1e-b699-3114-a02d-91f12f2647e9>
+        a           crm:E55_Type ;
+        rdfs:label  "bearded mouth"@en .
+
+<http://lod.unige.ch/buonfresco/type/55e58e0d-e9b7-33e0-b895-02dfbc808f6a>
+        a           crm:E55_Type ;
+        rdfs:label  "mouth wide open"@en .
+
+<http://lod.unige.ch/buonfresco/text/ba066872-5f18-3b6d-afac-8778d44888b8>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of the mouth open belongs on the fresco to the first friar singing. Dean isolates the detail and inverts the order of apparition of the mouth detail in the artist book. Brush strokes are visible in the rendering of the cheeks and of the mouth. Shaved hair are slightly visible on the surface. An ascetic expression such as that of singing to God is transformed in a carnal manifestation of the senses"@en , "The detail of the mouth open belongs on the fresco to the first friar singing. Dean isolates the detail and inverts the order of apparition of the mouth detail in the artist book. Brush strokes are visible in the rendering of the cheeks and of the mouth. Shaved hair are slightly visible on the surface. An ascetic expression such as that of singing to God is transformed in a carnal manifestation of the senses recalling Francis Bacon's painting."@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/recognition/1857fa55-0e10-3a8e-aa32-3d6b9ae63079/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/fc9453c7-f33c-30e2-b34b-af5fe7cf51c6/symbolic> , <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> , <http://lod.unige.ch/buonfresco/adf8b366-14ff-3a2b-b825-1fae358153e4/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "senses"@en .
+
+<http://lod.unige.ch/buonfresco/recognition/f6dbbca3-eb26-37c5-9374-0666211479a4/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/dbf286dc-04d5-3286-988a-d42f0711b9c0/symbolic> , <http://lod.unige.ch/buonfresco/c0fd55bf-9e97-3ab7-a62a-f243700d9a4a/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> , <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/visual/b77dff41-977e-4f79-9434-5988a5a75cc5>
+        a                       vir:IC9_Representation ;
+        vir:K20_forms_part_of   <http://lod.unige.ch/buonfresco/visual/142a5a14-405a-3b3a-946c-b75147f6e386> , <http://lod.unige.ch/buonfresco/visual/150c4fb0-0b59-3ddc-bef2-a41cf139e739> , <http://lod.unige.ch/buonfresco/visual/db8b0617-164d-3b41-b481-398fbd5e0d95> ;
+        vir:K20_is_composed_of  <http://lod.unige.ch/buonfresco/visual/142a5a14-405a-3b3a-946c-b75147f6e386> , <http://lod.unige.ch/buonfresco/visual/150c4fb0-0b59-3ddc-bef2-a41cf139e739> , <http://lod.unige.ch/buonfresco/visual/db8b0617-164d-3b41-b481-398fbd5e0d95> .
+
+<http://lod.unige.ch/buonfresco/recognition/f5145167-ee53-39e2-bd9f-cafd12ce2876/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/fcc58432-3e73-319c-8931-33838d73ac5f/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/b54fc094-2601-375c-b383-ffee4e3d2a87/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/visual/7cf65402-f619-31fd-a366-56bd34383224>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "mouth contemplating"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/79066c40-8b1b-3548-b7c1-2479a42f4168/symbolic> , <http://lod.unige.ch/buonfresco/8708967c-f0a9-34be-9c1b-25397022e927/symbolic> , <http://lod.unige.ch/buonfresco/629a6b49-2bce-35f8-986c-ed39d57e5945/symbolic> , <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> , <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/7cf65402-f619-31fd-a366-56bd34383224> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/7cf65402-f619-31fd-a366-56bd34383224> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/629a6b49-2bce-35f8-986c-ed39d57e5945/symbolic> , <http://lod.unige.ch/buonfresco/8708967c-f0a9-34be-9c1b-25397022e927/symbolic> , <http://lod.unige.ch/buonfresco/f185070b-a1b6-3b43-8f02-30219004aa19/symbolic> , <http://lod.unige.ch/buonfresco/11115127-07cb-30f2-8b41-83ae1f266d77/symbolic> , <http://lod.unige.ch/buonfresco/79066c40-8b1b-3548-b7c1-2479a42f4168/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/7cf65402-f619-31fd-a366-56bd34383224/Q449505> , <http://lod.unige.ch/buonfresco/recognition/7cf65402-f619-31fd-a366-56bd34383224/Q3667479> .
+
+<http://lod.unige.ch/buonfresco/recognition/db8b0617-164d-3b41-b481-398fbd5e0d95/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/adf8b366-14ff-3a2b-b825-1fae358153e4/symbolic> , <http://lod.unige.ch/buonfresco/dd8c1f02-0a20-3c13-b90a-93a17fab278e/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/recognition/97618e1e-b699-3114-a02d-91f12f2647e9/Q449505>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/fcc58432-3e73-319c-8931-33838d73ac5f/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/b54fc094-2601-375c-b383-ffee4e3d2a87/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q449505> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/6e2f6d77-47d7-3880-94eb-46ad2a3fb8df> .
+
+<http://lod.unige.ch/buonfresco/a672c54e-39c8-357d-896b-d146df30e19d/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "marks"@en .
+
+<http://lod.unige.ch/buonfresco/visual/a986f1e8-7f6b-3e39-b621-27ce347054ab>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "finger pointing manuscript"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/f65ed303-fb0b-3fd5-8c92-71fbb720348d/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/3e7b0b39-92eb-3a88-8870-d6193b98db1f> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/a986f1e8-7f6b-3e39-b621-27ce347054ab> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/f65ed303-fb0b-3fd5-8c92-71fbb720348d/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/a986f1e8-7f6b-3e39-b621-27ce347054ab/Q3667479> .
+
+<http://lod.unige.ch/buonfresco/visual/9c1c14df-f359-30c4-b2ce-5ba5add117f2>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "unbearded mouth"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/b54fc094-2601-375c-b383-ffee4e3d2a87/symbolic> , <http://lod.unige.ch/buonfresco/fcc58432-3e73-319c-8931-33838d73ac5f/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/9c1c14df-f359-30c4-b2ce-5ba5add117f2> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/9c1c14df-f359-30c4-b2ce-5ba5add117f2> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/b54fc094-2601-375c-b383-ffee4e3d2a87/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/fcc58432-3e73-319c-8931-33838d73ac5f/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/9c1c14df-f359-30c4-b2ce-5ba5add117f2/Q449505> .
+
+<http://lod.unige.ch/buonfresco/visual/7918338d-55a9-43c6-a884-0dbfe5551073>
+        a                       vir:IC9_Representation ;
+        vir:K20_forms_part_of   <http://lod.unige.ch/buonfresco/visual/1857fa55-0e10-3a8e-aa32-3d6b9ae63079> , <http://lod.unige.ch/buonfresco/visual/c4fea355-363b-3cfb-867b-0f62355283e7> , <http://lod.unige.ch/buonfresco/visual/c4f2f546-bf1f-3291-b249-eefc666a6296> , <http://lod.unige.ch/buonfresco/visual/92b44a61-ad8e-3781-a7e7-bdd7781f6c30> , <http://lod.unige.ch/buonfresco/visual/7cf65402-f619-31fd-a366-56bd34383224> , <http://lod.unige.ch/buonfresco/visual/39e257dc-8412-3174-b6b3-0ee3ed6a43e9> ;
+        vir:K20_is_composed_of  <http://lod.unige.ch/buonfresco/visual/1857fa55-0e10-3a8e-aa32-3d6b9ae63079> , <http://lod.unige.ch/buonfresco/visual/c4f2f546-bf1f-3291-b249-eefc666a6296> , <http://lod.unige.ch/buonfresco/visual/39e257dc-8412-3174-b6b3-0ee3ed6a43e9> , <http://lod.unige.ch/buonfresco/visual/92b44a61-ad8e-3781-a7e7-bdd7781f6c30> , <http://lod.unige.ch/buonfresco/visual/c4fea355-363b-3cfb-867b-0f62355283e7> , <http://lod.unige.ch/buonfresco/visual/7cf65402-f619-31fd-a366-56bd34383224> .
+
+<http://lod.unige.ch/buonfresco/text/f6dbbca3-eb26-37c5-9374-0666211479a4>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of the foot belongs to Saint Francis kneeling while receiving the stigmata. Dean brigs the viewer to observe a red stain on the second finger dripping on the white brushstrokes that represent light on the finger."@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/text/7f5c0068-a42b-3c28-b964-0ba6f37b32e5>
+        a                crm:E73_Information_Object ;
+        rdf:value        "The detail of Francis stigmata"@en ;
+        crm:P2_has_type  aat:300435416 .
+
+<http://lod.unige.ch/buonfresco/1233b430-9f6a-3b9d-95b8-33c7ef08a4a4/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "Francis"@en .
+
+<http://lod.unige.ch/buonfresco/type/cb7b7c49-5698-34d8-b6c0-3e87e6cffa1d>
+        a           crm:E55_Type ;
+        rdfs:label  "dove"@en .
+
+<http://lod.unige.ch/buonfresco/type/ba066872-5f18-3b6d-afac-8778d44888b8>
+        a           crm:E55_Type ;
+        rdfs:label  "mouth open"@en .
+
+<http://lod.unige.ch/buonfresco/965e3c22-2004-3d94-873b-0e2142913cb1/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "renunciation of wordly things"@en .
+
+<http://lod.unige.ch/buonfresco/dfcc9ddd-12f1-377d-92db-26a8ade3fae3/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "artistic process"@en .
+
+<http://lod.unige.ch/buonfresco/person/Q3667479>
+        a           crm:E21_Person ;
+        rdfs:label  "Chiara Frugoni"@en ;
+        owl:sameAs  wd:Q3667479 .
+
+<http://lod.unige.ch/buonfresco/recognition/db8b0617-164d-3b41-b481-398fbd5e0d95/Q3667479>
+        a                             crm:E13_Attribute_Assignment ;
+        crm:P141_assigned             <http://lod.unige.ch/buonfresco/adf8b366-14ff-3a2b-b825-1fae358153e4/symbolic> , <http://lod.unige.ch/buonfresco/dd8c1f02-0a20-3c13-b90a-93a17fab278e/symbolic> ;
+        crm:P14_carried_out_by        <http://lod.unige.ch/buonfresco/person/Q3667479> ;
+        crm:P16_used_specific_object  <http://lod.unige.ch/buonfresco/text/797e4992-0af1-32d7-bdc6-35db4a819e51> .
+
+<http://lod.unige.ch/buonfresco/visual/f5145167-ee53-39e2-bd9f-cafd12ce2876>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "feathers"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/b54fc094-2601-375c-b383-ffee4e3d2a87/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> , <http://lod.unige.ch/buonfresco/fcc58432-3e73-319c-8931-33838d73ac5f/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/db8b0617-164d-3b41-b481-398fbd5e0d95> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/f5145167-ee53-39e2-bd9f-cafd12ce2876> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/fcc58432-3e73-319c-8931-33838d73ac5f/symbolic> , <http://lod.unige.ch/buonfresco/b54fc094-2601-375c-b383-ffee4e3d2a87/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/f5145167-ee53-39e2-bd9f-cafd12ce2876/Q449505> .
+
+<http://lod.unige.ch/buonfresco/visual/72fb51a5-d04c-41a5-a50e-390a6f9c1636>
+        a                       vir:IC9_Representation ;
+        vir:K20_forms_part_of   <http://lod.unige.ch/buonfresco/visual/ba066872-5f18-3b6d-afac-8778d44888b8> , <http://lod.unige.ch/buonfresco/visual/55e58e0d-e9b7-33e0-b895-02dfbc808f6a> ;
+        vir:K20_is_composed_of  <http://lod.unige.ch/buonfresco/visual/ba066872-5f18-3b6d-afac-8778d44888b8> , <http://lod.unige.ch/buonfresco/visual/55e58e0d-e9b7-33e0-b895-02dfbc808f6a> .
+
+<http://lod.unige.ch/buonfresco/type/15a0fcf2-9a92-34dc-ad39-b47f386af3a9>
+        a           crm:E55_Type ;
+        rdfs:label  "finger"@en .
+
+<http://lod.unige.ch/buonfresco/159c2726-5268-34b8-aff5-5ec95b325cb3/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "Celano"@en .
+
+<http://lod.unige.ch/buonfresco/visual/e9d1e253-d3bb-3447-aecc-252394bd4b42>
+        a                              vir:IC9_Representation ;
+        rdfs:label                     "shingle"@en ;
+        vir:K14_symbolize              <http://lod.unige.ch/buonfresco/fcc58432-3e73-319c-8931-33838d73ac5f/symbolic> , <http://lod.unige.ch/buonfresco/b54fc094-2601-375c-b383-ffee4e3d2a87/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> ;
+        vir:K21_depict_things_of_type  <http://lod.unige.ch/buonfresco/type/0958fa58-4ff6-3d84-8b98-5982b67b7d4d> ;
+        crm:P129i_is_subject_of        <http://lod.unige.ch/buonfresco/text/e9d1e253-d3bb-3447-aecc-252394bd4b42> ;
+        crm:P138_represents            <http://lod.unige.ch/buonfresco/b54fc094-2601-375c-b383-ffee4e3d2a87/symbolic> , <http://lod.unige.ch/buonfresco/fcc58432-3e73-319c-8931-33838d73ac5f/symbolic> , <http://lod.unige.ch/buonfresco/8bee1644-3065-3511-9b26-4ea5dddb006e/symbolic> ;
+        crm:P140i_was_attributed_by    <http://lod.unige.ch/buonfresco/recognition/e9d1e253-d3bb-3447-aecc-252394bd4b42/Q449505> .
+
+<http://lod.unige.ch/buonfresco/c146c504-53c3-3639-afae-d080b9f2d19a/symbolic>
+        a           crm:E90_Symbolic_Object ;
+        rdfs:label  "sense"@en .

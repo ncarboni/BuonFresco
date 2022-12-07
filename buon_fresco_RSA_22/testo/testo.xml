@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+  <row>
+    <id>3b0101ee-11c0-4ffd-8745-a098dbf45748</id>
+    <panels>Omaggio dell'uomo semplice</panels>
+    <testo>Quando un uomo semplice di Assisi stese le vesti dinanzi al beato Francesco e rese omaggio a lui che passava; oltre a ciò - si crede per ammaestramento di Dio-  asserì essere Francesco degno di ogni riverenza, come chi era per fare  in un tempo prossimo grandi cose, e perciò dover essere onorato da  tutti.</testo>
+    <id_testo>33f3c636-3848-3306-ae64-eb4e68de97db</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>d4fad139-3aa0-4cde-b63b-fd6bf0110ab1</id>
+    <panels>San Francesco dona il mantello a un povero</panels>
+    <testo>Quando il beato Francesco  si incontrò con un cavaliere, nobile ma povero e malvestito, dalla cui  indigenza mosso a compassione per affettuosa pietà, quello subito  spogliatosi, rivestì.</testo>
+    <id_testo>648d5d7a-41fe-3358-a909-1a9b8bc1a134</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>d054ffd4-95ee-4427-b7a2-c050aca665f2</id>
+    <panels>Sogno delle armi</panels>
+    <testo>La notte seguente, essendosi il beato Francesco assopito, vide un palazzo splendido e grande con armi guerresche fregiate del segno della croce di Cristo; e chiedendo di chi fossero, da una voce celeste gli fu risposto che esse sarebbero divenute tutte sue e dei suoi soldati.</testo>
+    <id_testo>9fc23da6-e49f-30c6-8b7f-43cb4056df8f</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>e9a5166d-6525-41bf-8759-4db54065aca2</id>
+    <panels>Preghiera in San Damiano</panels>
+    <testo>Pregando il beato Francesco dinanzi all'immagine del Crocifisso, dalla croce venne una voce che disse tre volte: "Francesco, va', ripara la mia chiesa che tutta si distrugge", con ciò alludendo alla Chiesa di Roma.</testo>
+    <id_testo>6e5d4aed-c948-33dd-a0a2-591eee6285bf</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>fd4c5ec2-27c4-4f2b-ae92-8e3e71864867</id>
+    <panels>San Francesco rinuncia ai beni terreni</panels>
+    <testo>Quando restituì al padre ogni cosa e, deposte le vesti, rinunciò ai beni  paterni e temporali, dicendo: «Di qui in avanti posso dire con  certezza: - Padre nostro che sei nei cieli- , poiché Pietro di Bernardone m'ha ripudiato.»</testo>
+    <id_testo>72fc7564-3a86-37c3-a9c3-41d27fc19600</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>7c19160e-fa5f-40df-89c8-0bea9caea361</id>
+    <panels>Sogno di Innocenzo III</panels>
+    <testo>Come il papa vedeva la basilica lateranense esser già prossima alla rovina; la quale era sostenuta da un poverello (si intende il beato Francesco), mettendole sotto il proprio dosso perché non cadesse.</testo>
+    <id_testo>1c0793f9-3655-3ada-875d-83d422ebb033</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>844af9fa-cbaa-45c7-8550-1da0e1f55636</id>
+    <panels>Innocenzo III conferma la Regola francescana</panels>
+    <testo>Quando il Papa approvò la Regola e diede mandato di predicare la penitenza, e ai frati, che avevano accompagnato il Santo, fece fare corone, perché predicassero il verbo di Dio.</testo>
+    <id_testo>69ece2ad-d73a-368b-88fb-a82e883be70d</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>45b96403-83a5-4deb-8f3f-d08dbb70eb35</id>
+    <panels>Apparizione di san Francesco su un carro di fuoco</panels>
+    <testo>Pregando il beato Francesco in un tugurio ed essendo i suoi frati in un altro tugurio fuori dalla città, alcuni riposando e altri perseverando nelle orazioni, ed essendo il santo corporalmente lontano dai suoi figli, ecco che costoro videro il beato Francesco  sopra un carro infocato e splendente correre per la casa, circa la  mezzanotte, mentre il tugurio risplendeva d'una grande luce; onde  stupirono quelli che vegliavano, si destarono e spaventarono gli altri  che dormivano.</testo>
+    <id_testo>1be23ed9-1754-379d-87ee-f4fa6a71a7ee</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>24edffeb-f9a9-4b41-a066-de0c6a615b93</id>
+    <panels>Visione dei troni</panels>
+    <testo>Visione di un compagno di San Francesco che vide in cielo molti seggi, e uno, più degli altri degno, d'ogni gloria rifulgente; e udì una voce che diceva: «Questo seggio fu di uno degli angeli che caddero, e ora è riservato all'umile Francesco».</testo>
+    <id_testo>3bcc2229-a52c-3c67-815e-40d647783d7a</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>efb8fd36-50e0-4200-be96-366d0a83f2fe</id>
+    <panels>Cacciata dei diavoli da Arezzo</panels>
+    <testo>Quando il beato Francesco vide sopra la città di Arezzo i demoni esultanti e al suo compagno disse: "Va', e in nome di Dio scaccia i diavoli, così come dal Signore stesso ti è stato ordinato, gridando da fuori della porta»; e come quello obbedendo gridò, i demoni fuggirono e subito pace fu fatta</testo>
+    <id_testo>2180a7d2-b792-3f7b-b753-29cd2635eeb2</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>b77dff41-977e-4f79-9434-5988a5a75cc5</id>
+    <panels>San Francesco davanti al Sultano</panels>
+    <testo>Quando il beato Francesco per la fede in Cristo volle entrare in un grande fuoco coi sacerdoti del Soldano di Babilonia[1]; ma nessuno di loro volle entrare con lui, e subito tutti fuggirono dalla sua vista.</testo>
+    <id_testo>1743eb33-0f5d-3223-a180-de0d43428137</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>1206f44e-abd1-4bc4-90e0-0b14db5b6c84</id>
+    <panels>San Francesco in estasi</panels>
+    <testo>Come il beato Francesco, pregando un giorno fervidamente, fu scorto dai frati levarsi da terra con tutto il corpo, con le mani protese; e una fulgidissima nuvoletta risplendette intorno a lui.</testo>
+    <id_testo>3999a92e-9ab2-320f-9d21-4082b866e3c1</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>72fb51a5-d04c-41a5-a50e-390a6f9c1636</id>
+    <panels>Natale di Greccio</panels>
+    <testo>Come il beato Francesco, in memoria del Natale di Cristo, ordinò che si apprestasse il presepe, che si portasse il fieno, che si conducessero il bue e l'asino; e predicò sulla natività del Re povero; e, mentre il santo uomo teneva la sua orazione, un cavaliere scorse il vero Gesù Bambino in luogo di quello che il santo aveva portato.</testo>
+    <id_testo>5a208a3f-4c10-3cd5-a227-0c945d8ed13f</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>9a910d39-e245-418c-a395-840992dae463</id>
+    <panels>Miracolo della sorgente</panels>
+    <testo>Salendo il beato Francesco sopra un monte in groppa all'asino di un povero uomo a causa di un'infermità, e invocando il detto uomo, che si sentiva morir di sete, un poco d'acqua, ne cavò da una pietra: la quale né prima v'era stata, né poi fu vista.</testo>
+    <id_testo>e5bb5c2a-f3b6-39fd-b683-961e655f4230</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>9227d43e-4158-4fb4-a06d-96716f5e34e8</id>
+    <panels>Predica agli uccelli</panels>
+    <testo></testo>
+    <id_testo></id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>99953f18-b5e2-49ee-9582-8b03b7156767</id>
+    <panels>Morte del cavaliere di Celano</panels>
+    <testo>Quando il beato Francesco impetrò la salute dell'anima per un cavaliere di Celano, che devotamente a pranzo l'aveva invitato; il quale, dopo la confessione  e dopo aver disposto per la sua casa, mentre gli altri si mettevano a  mangiare, d'improvviso esalò l'anima, addormentandosi nel Signore.</testo>
+    <id_testo>fe4dde2f-9771-3b0f-a187-a0825e4e2fba</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>07a8bce1-b2be-4be8-9694-916089dd7cd6</id>
+    <panels>Predica davanti a Onorio III</panels>
+    <testo>Quando il beato Francesco, al cospetto del santo papa e dei cardinali, predicò con tale devozione e tale efficacia da apparire chiaramente come egli parlasse non con dotte parole d'umana sapienza, ma per divina ispirazione.</testo>
+    <id_testo>2d44e5f9-365b-3d66-b372-66ed8418c1ce</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>cb4aa948-5c1f-4688-834a-4a5640c653d9</id>
+    <panels>San Francesco appare al Capitolo di Arles</panels>
+    <testo>Predicando il beato Antonio in capitolo ad Arles sul titolo della Croce, il beato Francesco, benché corporalmente assente, apparve; e stese le mani, benedisse i frati, così come poté vedere il frate Monaldo; e gli altri frati ne ebbero una grande consolazione.</testo>
+    <id_testo>337eb97a-4f7c-3460-a6a6-e8cad6b7dc13</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>0e412a49-d785-487a-9844-99af1017bb5f</id>
+    <panels>San Francesco riceve le stimmate (Assisi)</panels>
+    <testo>Pregando il beato Francesco sul fianco del monte della Verna, vide Cristo in aspetto di Serafino crocefisso; il quale gl'impresse nelle mani e nei piedi e anche nel fianco destro le stimmate della Croce dello stesso Signore Nostro Gesù Cristo.</testo>
+    <id_testo>e4fa5030-1732-3de3-ab36-10c1843500db</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>7918338d-55a9-43c6-a884-0dbfe5551073</id>
+    <panels>Morte di san Francesco</panels>
+    <testo>Come, nel momento del trapasso del beato Francesco, un frate vide l'anima sua salire al cielo sotto forma di stella fulgidissima.</testo>
+    <id_testo>86c60ee5-0b3a-326a-870a-57a1dbdc7f89</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>d13586b5-547f-49db-a5dd-df44f2c35877</id>
+    <panels>Visioni di frate Agostino e del vescovo di Assisi</panels>
+    <testo>Il ministro, in Terra di Lavoro, infermo e presso alla fine e già da  tempo avendo perduto la loquela, gridò e disse: «Aspettami, padre, vengo  teco»; e subito spirato, seguì il Santo padre. Oltre a ciò, essendo il vescovo sopra il monte di San Michele Arcangelo, vide il beato Francesco che gli diceva: «Ecco che salgo in cielo»; e in tale ora fu così trovato.</testo>
+    <id_testo>caa406d8-08b9-370b-a8c2-2f17c4d287bf</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>532fa8f3-7e1f-45ef-bef8-11e9a72a1578</id>
+    <panels>Girolamo esamina le stimmate</panels>
+    <testo>Nella Porziuncola giacendo morto il beato Francesco, messer Geronimo, celebre dottore e letterato, moveva i chiodi, e le mani, i piedi, il costato del Santo con le proprie mani frugava.</testo>
+    <id_testo>a8fd32af-ad93-38e0-96af-7ca725a8d53e</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>efdc5291-3388-4717-b6bf-f072bb8d0ace</id>
+    <panels>Saluto di santa Chiara e delle sue compagne a san Francesco</panels>
+    <testo>Le turbe che erano convenute, trasportando verso la città d'Assisi con rami d'alberi e moltitudine di ceri accesi il sacro corpo fregiato delle celesti gemme, lo presentarono alla vista della beata Clara e delle sacre vergini.</testo>
+    <id_testo>712ab986-0681-3958-80c1-a3bb19f2ad0e</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>0ab06522-d46f-4319-847c-8c58564bccd4</id>
+    <panels>Canonizzazione di san Francesco</panels>
+    <testo></testo>
+    <id_testo></id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>bb0a836c-a444-4981-817c-fb25bec8bb84</id>
+    <panels>San Francesco appare a Gregorio IX</panels>
+    <testo>Dubitando alquanto il Santo, papa Gregorio della piaga del costato, gli disse in sogno il beato Francesco:«Dammi una fiala vuota». E, come gliela diede, la si vide riempire dal sangue del costato.</testo>
+    <id_testo>2374e399-eb51-36ad-b4d8-53578015bbdf</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>12f83e89-a78c-4eb4-b76b-3f9fb71d823f</id>
+    <panels>Guarigione dell'uomo di Lleida</panels>
+    <testo>Nella Catalogna, vicino a Lerida, un uomo, che si chiamava Giovanni ed era devoto del beato Francesco,  una sera stava camminando per una strada, dove era stato teso un  agguato per uccidere non già lui, che non aveva nemici, ma un altro, che  gli assomigliava e quella sera si trovava in sua compagnia. Balzando  dal nascondiglio, l'assassino, che avea scambiato Giovanni per il suo  nemico, lo colpì a morte molte volte con la spada. (...) Perduta ormai  ogni speranza nei rimedi umani, il ferito rivolse tutta la sua devozione  a impetrare il patrocinio del beato padre Francesco,  che già sotto il grandinare dei colpi aveva invocato con grande  fiducia, insieme con la beata Vergine. Ed ecco: mentre languiva nel  letto solitario della sua sventura, e, vegliando e gemendo, continuava a  ripetere il nome di Francesco,  gli si avvicinò un tale, vestito da frate minore; sembrava che fosse  entrato dalla finestra. Chiamandolo per nome, gli disse: "Siccome hai  avuto fiducia in me, ecco che il Signore ti farà guarire". L'infermo gli  domandò chi era: quello rispose che era san Francesco e subito si  accostò a lui, gli slegò le fasciature delle ferite e spalmò un unguento  (così sembrava) su tutte le piaghe. Al contatto soave di quelle mani  stimmatizzate, che avevano ricevuto dal Salvatore la potenza di  risanare, la carne, scomparso il marciume, si reintegrò, le ferite si  rimarginarono, lasciando il ferito completamente sano, come prima. Fatto  questo, il beato Francesco scomparve. E quell'uomo, sentendosi risanato, proruppe in grida di gioia e di lode a Dio e al beato Francesco</testo>
+    <id_testo>daa922ed-9415-3385-99ba-f5c143cd064f</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>ff9961b3-7670-48c6-967d-e756d697565f</id>
+    <panels>Confessione della donna resuscitata</panels>
+    <testo>Nel borgo di Monte Marano, presso Benevento era morta una donna particolarmente devota di san Francesco. La sera vennero i chierici per le esequie e già si apprestavano a celebrare la veglia con la recita dei salmi quando improvvisamente, alla vista di tutti, la donna si alzò sul letto e chiamò uno dei sacerdoti presenti, che era il suo padrino, e gli disse: "Padre, voglio confessarmi: ascolta il mio peccato. Quando sono morta, io dovevo essere gettata in una orrenda prigione, perché non avevo confessato il peccato che sto per dirti. Ma per me ha pregato san Francesco, che durante la vita ho sempre servito con devozione e così mi è stato concesso di ritornare ora nel corpo, per confessare quel peccato e meritarmi la vita eterna. Dopo che lo avrò confessato, ecco, mi affretterò alla pace promessa". Tremando si confessò al sacerdote tremante e, ricevuta l'assoluzione, si stese in pace sul suo letto e s'addormentò felicemente nel Signore.</testo>
+    <id_testo>e5e01af8-aa6d-385a-ac98-529812bb50c9</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+  <row>
+    <id>6306dbdc-27de-4ecb-82d8-be9783138ad8</id>
+    <panels>San Francesco libera l'eretico Pietro di Alife</panels>
+    <testo>Al tempo in cui sedeva sulla cattedra di Pietro papa Gregorio IX, un certo Pietro, della città di Alife, accusato di eresia, fu preso prigioniero a Roma e, per mandato dello stesso pontefice, affidato alla custodia del vescovo di Tivoli. Questi, impegnato a non lasciarselo sfuggire, pena la perdita del vescovado,  lo fece incatenare e rinchiudere in un'oscura prigione, dove gli veniva  dato il pane a peso a peso e l'acqua secondo misura. Ma quell'uomo,  avendo saputo che si approssimava la vigilia della festa di san Francesco,  incominciò a invocarlo con molte preghiere e lacrime, perché avesse  pietà di lui. E siccome era tornato alla fede sincera, rinnegando ogni  errore ed ogni prava eresia, e si era affidato con tutta la devozione del cuore a Francesco, campione della fede di Cristo, meritò di essere esaudito dal Signore, per intercessione del Santo. La sera della sua festa, sull'imbrunire, il beato Francesco  pietosamente scese nel carcere e, chiamando Pietro per nome, gli  comandò di alzarsi in fretta. Invaso dal terrore, il prigioniero gli  domandò chi fosse e si sentì rispondere che era il beato Francesco. Intanto vedeva che, per la presenza miracolosa del Santo,  i ceppi erano caduti infranti ai suoi piedi, le porte del carcere si  aprivano, mentre i chiodi saltavano via da soli, e gli si spalancava  davanti la strada per andarsene. Pietro vedeva tutto questo, vedeva che  era libero: eppure, paralizzato dallo stupore, non riusciva a fuggire;  soltanto si mise vicino alla porta e incominciò a gridare, facendo  spaventare tutte le guardie. Venuto a sapere da loro che il prigioniero  era stato liberato dai ceppi e il modo in cui si erano svolte le cose,  il pio vescovo si recò nel carcere e là, riconoscendo ben visibile la  potenza di Dio, si inginocchiò ad adorare il Signore. Quei ceppi furono poi mostrati al Papa e ai cardinali che, vedendo quanto era accaduto, benedissero Dio con sentimento di grandissima ammirazione.</testo>
+    <id_testo>baed3867-ae2d-38cf-a9d5-9629103e12e4</id_testo>
+    <partOf>Q377357</partOf>
+    <Lit>Legenda Maior</Lit>
+    <author>Bonaventure</author>
+    <author_it>Bonaventura da Bagnoregio</author_it>
+    <date_of_birth>1221-01-01T00:00:00Z</date_of_birth>
+    <death_of_birth_end>1221-12-31T23:59:59Z</death_of_birth_end>
+    <date_of_death>1274-07-15T00:00:00Z</date_of_death>
+    <date_of_death_end>1274-07-15T23:59:59Z</date_of_death_end>
+    <place_of_birth>Bagnoregio</place_of_birth>
+    <place_of_birth_wd_id>Q159498</place_of_birth_wd_id>
+    <place_of_death>Lyon</place_of_death>
+    <place_of_death_wd_id>Q456</place_of_death_wd_id>
+    <author_wd_id>Q43746</author_wd_id>
+    <publication_date_start>1263-01-01T00:00:00Z</publication_date_start>
+    <publication_date_end>1263-01-01T23:59:59Z</publication_date_end>
+  </row>
+</rows>
